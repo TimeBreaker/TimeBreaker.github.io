@@ -181,6 +181,7 @@ Awards & Honors
 
 Invited Talks
 ======
+* 2024.3.19 Invited talk "Spatio-Temporal Data Fusion" at [Spatial-Temporal Data Analysis and Data Mining (CEGE0042)](https://www.ucl.ac.uk/module-catalogue/modules/CEGE0042), a core course for MSc Geospatial Science and MSc Spatio-temporal Analytics and Big Data Mining, led by [Dr James Haworth](https://profiles.ucl.ac.uk/24884)<br>
 * 2023.9.29 Invited talk "Multi-Agent Deep Reinforcement Learning: Background and Recent Works" at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)<br>
 * 2023.9.8 Invited talk "Research Experience Sharing" at [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh)<br>
 * 2022.8.25 Invited talk "Deep Reinforcement Learning: Background and Recent Works" at [Institute of Mechanics, Chinese Academy of Sciences](http://www.imech.ac.cn/)<br>
@@ -190,6 +191,7 @@ Invited Talks
 
 Program Committee Member
 ======
+* IJCAI 2024：[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)
 * IJCAI 2023：[the 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/)
 * ECAI 2023：[the 26th European Conference on Artificial Intelligence](https://ecai2023.eu/)
 * MRS 2023：[the 4th International Symposium on Multi-Robot and Multi-Agent Systems](https://sites.bu.edu/mrs2023/)
@@ -219,10 +221,15 @@ Other Activities
 
 Maintained Projects
 ======
-* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers?label=last%20update)
+* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/stargazers)
+* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/stargazers)
+* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/stargazers)
+* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)
+
+<!-- * [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers?label=last%20update)
 * [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-papers-with-code?label=last%20update)
 * [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-resources-collection?label=last%20update)
-* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Adversarial-Reinforcement-Learning-Papers?label=last%20update)
+* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Adversarial-Reinforcement-Learning-Papers?label=last%20update) -->
 
 
 For More Info
