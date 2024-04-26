@@ -79,6 +79,7 @@ Publications
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin<br>
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
   [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](https://timebreaker.github.io/files/PDiT.bib)]
+  <!-- 毛航宇，赵瑞，黎子玥，徐志伟，陈皓，陈逸群，张斌，肖臻，张俊格，尹江津 -->
 * **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Sparse and Long-tail Travel Demand Prediction**<br>
   Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao<br>
   *CIKM2023(Poster):[the 32nd ACM International Conference on Information and Knowledge Management](https://uobevents.eventsair.com/cikm2023/)*<br>
