@@ -158,9 +158,11 @@ Publications
 
 Awards & Honors
 ======
-* 2023 Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences
+* 2024 Outstanding Merit Student of University of Chinese Academy of Sciences <br>
+  (中国科学院大学三好学生标兵)
+* 2023 Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences <br>
   (中国科学院朱李月华优秀博士生奖学金)
-* 2023 CSC Scholarship
+* 2023 CSC Scholarship <br>
   (国家留学基金委奖学金)
 * 2022, 2023 Merit Student of University of Chinese Academy of Sciences <br>
   (中国科学院大学三好学生）
