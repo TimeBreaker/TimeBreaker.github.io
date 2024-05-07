@@ -141,16 +141,21 @@ Publications
   [[arXiv](https://arxiv.org/abs/2212.14538)] [[Code](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](https://timebreaker.github.io/files/TIT.bib)]
 
 ## Patents
-* **Learning Ensemble Credit Assignment for Multi-Agent Reinforcement Learning**<br>
-  (基于集成学习的多智能体信用分配方法、系统、设备) CN: CN115018017A<br>
-  Junge Zhang, Kaiqi Huang, **Hao Chen**, Guangkai Yang<br>
-  [[Link](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IFG7AHA9IEF9DEA7DDA9IGF9CBD9EHE9GGHAFEA9ECD9BHB)] [[Link](https://zhuanli.tianyancha.com/cc4a99e19ff4de0583a67632045cb4e8)] [[Link](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)]
-<!-- 张俊格, 黄凯奇, **陈皓**, 杨光开 -->
+* **Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems**<br>
+  (多智能体通信方法、装置、存储介质和电子设备) CN: CN117579358A<br>
+  Junge Zhang, Dan Qiao, **Hao Chen**<br>
+  [[Link](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)]
+<!-- 张俊格, 乔丹, **陈皓** -->
 * **Learning Stochastic Credit Assignment for Cooperative Multi-Agent Reinforcement Learning**<br>
   (多智能体信用分配方法、装置、可读存储介质和智能体) CN: CN115660110B<br>
   Junge Zhang, Mingyi Zhang, Guangkai Yang, **Hao Chen**, Kaiqi Huang, Dandan Chen, Lu Wang<br>
   [[Link](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9IED8CEA9IBC5CCA9FGDBHFAEIGA9IEF9BIGFHHA9IGH)] [[Link](https://zhuanli.tianyancha.com/2b92548fedd94537e7c3931177055cd8)] [[Link](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)]
 <!-- 张俊格, 张茗奕, 杨光开, **陈皓**, 黄凯奇, 陈丹丹, 王陆 -->
+* **Learning Ensemble Credit Assignment for Multi-Agent Reinforcement Learning**<br>
+  (基于集成学习的多智能体信用分配方法、系统、设备) CN: CN115018017A<br>
+  Junge Zhang, Kaiqi Huang, **Hao Chen**, Guangkai Yang<br>
+  [[Link](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IFG7AHA9IEF9DEA7DDA9IGF9CBD9EHE9GGHAFEA9ECD9BHB)] [[Link](https://zhuanli.tianyancha.com/cc4a99e19ff4de0583a67632045cb4e8)] [[Link](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)]
+<!-- 张俊格, 黄凯奇, **陈皓**, 杨光开 -->
 
 
 <!-- Paper, arXiv, Blog, Code, Slides, Video, bibTeX, Data, Website, Project page, Poster, Reviews, Link, Appendix, Reviews -->
