@@ -220,7 +220,7 @@ Other Activities
 * 2017.9 - 2018.7 : President of the Students' Association Union
 * 2017.9 - 2018.7 : Vice President of the Student Union
 * 2016.9 - 2018.7 : Vice Captain of UCAS National Flag Guard
-* 2017 [Talk on the Preparation of the College Entrance Examination](https://ln.qq.com/zt2017/gaokao2017/pc.htm?pgv_ref=aio2015&ptlang=2052}{Guide to Registration)
+* 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
 * 2017 [Cover Person of UCAS School Magazine](https://timebreaker.github.io/files/201704.pdf)
 * 2018 [Repot by UCAS School Magazine](https://timebreaker.github.io/files/201803.pdf)
 * 2017 [Book1](https://book.yunzhan365.com/stpe/ajje/mobile/index.html#p=1) about student activities
