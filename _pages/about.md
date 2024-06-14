@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). I'm always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email.
-
-<!-- I’m currently a Master student in Pattern Recognition and Intelligent System advised by [Prof. Kaiqi Huang](http://people.ucas.ac.cn/~huangkaiqi?language=en), at [Center for Research on Intelligent System and Engineering](http://www.crise.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). My research interests include multi-agent learning, deep reinforcement learning, and game theory. I'm always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email. -->
-
-<!-- [School of Integrated Circuits, Chinese Academy of Sciences](https://sme.ucas.ac.cn/index.php/en/) -->
+I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. I am looking for cooperation opportunities. If you are interested with my experience or research, please feel free to contact me via Email(chenhao915@mails.ucas.ac.cn).
 
 <!-- News -->
 
