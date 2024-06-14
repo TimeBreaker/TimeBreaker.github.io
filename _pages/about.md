@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. I am looking for cooperation opportunities. If you are interested with my experience or research, please feel free to contact me via [Email](chenhao915@mails.ucas.ac.cn).
+I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. I am looking for cooperation opportunities. If you are interested with my experience or research, please feel free to contact me via Email.
 
 <!-- News -->
 
