@@ -165,7 +165,7 @@ Awards & Honors
   (中国科学院朱李月华优秀博士生奖学金)
 * 2023 CSC Scholarship <br>
   (国家留学基金委奖学金)
-* 2022, 2023 Merit Student of University of Chinese Academy of Sciences <br>
+* 2022, 2023, 2024 Merit Student of University of Chinese Academy of Sciences <br>
   (中国科学院大学三好学生）
 * 2020 - 2025 Academic Scholarship of University of Chinese Academy of Sciences <br>
   (中国科学院大学学业奖学金）
@@ -183,8 +183,11 @@ Awards & Honors
 * 2017 Third Prize in the 4th Undergraduate National Flag Raiser Competition
 
 
-Invited Talks
+Professional Services
 ======
+
+
+## Invited Talks
 * 2024.3.19 Invited talk "Spatio-Temporal Data Fusion" at [Spatial-Temporal Data Analysis and Data Mining (CEGE0042)](https://www.ucl.ac.uk/module-catalogue/modules/CEGE0042), a core course for MSc Geospatial Science and MSc Spatio-temporal Analytics and Big Data Mining, led by [Dr James Haworth](https://profiles.ucl.ac.uk/24884)<br>
 * 2023.9.29 Invited talk "Multi-Agent Deep Reinforcement Learning: Background and Recent Works" at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)<br>
 * 2023.9.8 Invited talk "Research Experience Sharing" at [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh)<br>
@@ -193,8 +196,7 @@ Invited Talks
   [[Slides](https://timebreaker.github.io/files/RACA.pdf)]
 
 
-Program Committee Member
-======
+## Program Committee Member
 * IJCAI 2024：[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)
 * IJCAI 2023：[the 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/)
 * ECAI 2023：[the 26th European Conference on Artificial Intelligence](https://ecai2023.eu/)
@@ -206,9 +208,16 @@ Program Committee Member
 <!-- Projects，Technical Reports，Writings，Services -->
 
 
-Journal Reviewer
-======
+## Journal Reviewer
 * TNNLS: [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+
+Media Coverage
+======
+* 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
+* 2017 [Cover Person of UCAS School Magazine](https://timebreaker.github.io/files/201704.pdf)
+* 2018 [Repot by UCAS School Magazine](https://timebreaker.github.io/files/201803.pdf)
+
 
 Other Activities
 ======
@@ -216,9 +225,6 @@ Other Activities
 * 2017.9 - 2018.7 : President of the Students' Association Union
 * 2017.9 - 2018.7 : Vice President of the Student Union
 * 2016.9 - 2018.7 : Vice Captain of UCAS National Flag Guard
-* 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
-* 2017 [Cover Person of UCAS School Magazine](https://timebreaker.github.io/files/201704.pdf)
-* 2018 [Repot by UCAS School Magazine](https://timebreaker.github.io/files/201803.pdf)
 * 2017 [Book1](https://book.yunzhan365.com/stpe/ajje/mobile/index.html#p=1) about student activities
 * 2018 [Book2](https://timebreaker.github.io/files/book2.pdf) about student activities
 
