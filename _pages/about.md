@@ -167,7 +167,7 @@ Awards & Honors
   (国家留学基金委奖学金)
 * 2022, 2023, 2024 Merit Student of University of Chinese Academy of Sciences <br>
   (中国科学院大学三好学生）
-* 2020 - 2025 Academic Scholarship of University of Chinese Academy of Sciences <br>
+* 2020 - Present Academic Scholarship of University of Chinese Academy of Sciences <br>
   (中国科学院大学学业奖学金）
 * 2017 Merit Student of Chinese Academy of Sciences <br>
   (中国科学院优秀共青团员）
@@ -185,6 +185,10 @@ Awards & Honors
 
 Professional Services
 ======
+
+
+## Chair
+* Session chair for [AAG 2024](https://www.aag.org/events/aag2024/)
 
 
 ## Invited Talks
@@ -212,21 +216,15 @@ Professional Services
 * TNNLS: [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
 
+## Other Activities
+* 2022.7 [The IEEE CIS Student and Early Career mentoring program](https://wcci2022.org/ieee-cis-student-and-early-career-mentoring-program/)
+
+
 Media Coverage
 ======
-* 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
-* 2017 [Cover Person of UCAS School Magazine](https://timebreaker.github.io/files/201704.pdf)
 * 2018 [Repot by UCAS School Magazine](https://timebreaker.github.io/files/201803.pdf)
-
-
-Other Activities
-======
-* 2022.7 [The IEEE CIS Student and Early Career mentoring program](https://wcci2022.org/ieee-cis-student-and-early-career-mentoring-program/)
-* 2017.9 - 2018.7 : President of the Students' Association Union
-* 2017.9 - 2018.7 : Vice President of the Student Union
-* 2016.9 - 2018.7 : Vice Captain of UCAS National Flag Guard
-* 2017 [Book1](https://book.yunzhan365.com/stpe/ajje/mobile/index.html#p=1) about student activities
-* 2018 [Book2](https://timebreaker.github.io/files/book2.pdf) about student activities
+* 2017 [Cover Person of UCAS School Magazine](https://timebreaker.github.io/files/201704.pdf)
+* 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
 
 
 Maintained Projects
@@ -240,6 +238,15 @@ Maintained Projects
 * [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-papers-with-code?label=last%20update)
 * [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-resources-collection?label=last%20update)
 * [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Adversarial-Reinforcement-Learning-Papers?label=last%20update) -->
+
+
+Student Activities
+======
+* 2017.9 - 2018.7 : President of the Students' Association Union
+* 2017.9 - 2018.7 : Vice President of the Student Union
+* 2016.9 - 2018.7 : Vice Captain of UCAS National Flag Guard
+* 2017 [Book1](https://book.yunzhan365.com/stpe/ajje/mobile/index.html#p=1) about student activities
+* 2018 [Book2](https://timebreaker.github.io/files/book2.pdf) about student activities
 
 
 For More Info
