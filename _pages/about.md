@@ -167,7 +167,7 @@ Awards & Honors
   (国家留学基金委奖学金)
 * 2022, 2023, 2024 Merit Student of University of Chinese Academy of Sciences <br>
   (中国科学院大学三好学生）
-* 2020 - Present Academic Scholarship of University of Chinese Academy of Sciences <br>
+* 2019 - 2025 Academic Scholarship of University of Chinese Academy of Sciences <br>
   (中国科学院大学学业奖学金）
 * 2017 Merit Student of Chinese Academy of Sciences <br>
   (中国科学院优秀共青团员）
@@ -201,6 +201,7 @@ Professional Services
 
 
 ## Program Committee Member
+* AAMAS 2025：[the 24th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2025.org/)
 * IJCAI 2024：[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)
 * IJCAI 2023：[the 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/)
 * ECAI 2023：[the 26th European Conference on Artificial Intelligence](https://ecai2023.eu/)
@@ -214,6 +215,7 @@ Professional Services
 
 ## Journal Reviewer
 * TNNLS: [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* IoT: [IEEE Internet of Things Journal](https://www.sciencedirect.com/journal/internet-of-things)
 
 
 ## Other Activities
