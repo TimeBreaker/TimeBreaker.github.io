@@ -49,7 +49,7 @@ I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Ji
 
 Education
 ======
-* 2023.9 - Present : Visiting Scholar at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), advised by [Prof. Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)
+* 2023.9 - 2024.8 : Visiting Scholar at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), advised by [Prof. Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)
 * 2022.9 - Present : Ph.D. in Computer Science, [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh), advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin)
 * 2019.9 - 2022.6 : M.S. in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Kaiqi Huang](http://people.ucas.ac.cn/~huangkaiqi?language=en)
 * 2015.9 - 2019.6 : B.E. in Computer Science, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by [Prof. Yidong Gu](http://people.ucas.ac.cn/~guyidongcsu?language=en)
@@ -76,7 +76,7 @@ Publications
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
   [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](https://timebreaker.github.io/files/PDiT.bib)]
   <!-- 毛航宇，赵瑞，黎子玥，徐志伟，陈皓，陈逸群，张斌，肖臻，张俊格，尹江津 -->
-* **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Sparse and Long-tail Travel Demand Prediction**<br>
+* **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**<br>
   Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao<br>
   *CIKM2023(Poster):[the 32nd ACM International Conference on Information and Knowledge Management](https://uobevents.eventsair.com/cikm2023/)*<br>
   [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615215)] [[arXiv](https://arxiv.org/abs/2306.09882)] [[Code](https://github.com/STTDAnonymous/STTD)] [[Poster](https://timebreaker.github.io/files/CIKM2023.pdf)] [[bibTeX](https://timebreaker.github.io/files/STTD.bib)]
@@ -259,10 +259,11 @@ For More Info
 * [Center for Research on Intelligent System and Engineering](http://www.crise.ia.ac.cn/)
 * [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)
 * [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
+* [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)
 
 
 Contact
 ======
 * chenhao915@mails.ucas.ac.cn (Main)
 * hao.chen@ucl.ac.uk (Valid from 2023.9 - 2024.8)
-* chenhao2019@ia.ac.cn (Expired)
+* chenhao2019@ia.ac.cn (Valid from 2019.9 - 2022.8)

@@ -11,7 +11,7 @@ author_profile: true
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
   [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](https://timebreaker.github.io/files/PDiT.bib)]
   <!-- 毛航宇，赵瑞，黎子玥，徐志伟，陈皓，陈逸群，张斌，肖臻，张俊格，尹江津 -->
-* **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Sparse and Long-tail Travel Demand Prediction**<br>
+* **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**<br>
   Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao<br>
   *CIKM2023(Poster):[the 32nd ACM International Conference on Information and Knowledge Management](https://uobevents.eventsair.com/cikm2023/)*<br>
   [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615215)] [[arXiv](https://arxiv.org/abs/2306.09882)] [[Code](https://github.com/STTDAnonymous/STTD)] [[Poster](https://timebreaker.github.io/files/CIKM2023.pdf)] [[bibTeX](https://timebreaker.github.io/files/STTD.bib)]
