@@ -129,6 +129,10 @@ Publications
   [[Workshop on Ad Hoc Teamwork](https://sites.google.com/view/ad-hoc-teamwork)]
 
 ## Pre-prints
+* **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
+  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
+  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
+  <!-- [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)] -->
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
   Jiayuan Luo, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Dingyi Zhuang, **Hao Chen**, Xinke Jiang<br>
   [[arXiv](https://browse.arxiv.org/abs/2401.17350)] [[Code](https://github.com/WentaoZhang2001/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
