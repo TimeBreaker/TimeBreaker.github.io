@@ -129,6 +129,9 @@ Publications
   [[Workshop on Ad Hoc Teamwork](https://sites.google.com/view/ad-hoc-teamwork)]
 
 ## Pre-prints
+* **Multi-Channel Spatio-Temporal Data Fusion of Network-Wide "Big" and "Small" Flow Data**<br>
+  Tao Cheng*, **Hao Chen***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
+  [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] 
 * **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
   Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
   [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
@@ -214,6 +217,7 @@ Professional Services
 <!-- * IVPAI 2023: [the 5th International Conference on Image, Video Processing and Artificial Intelligence](https://www.ivpai.org) -->
 * ICML 2022: [the 39th International Conference on Machine Learning](https://icml.cc/Conferences/2022)
 * CAC 2022: [the Chinese Automation Congress](http://www.cac2022.org.cn/)
+
 <!-- Projects，Technical Reports，Writings，Services -->
 
 
@@ -224,6 +228,7 @@ Professional Services
 
 ## Other Activities
 * 2022.7 [The IEEE CIS Student and Early Career mentoring program](https://wcci2022.org/ieee-cis-student-and-early-career-mentoring-program/)
+* [AI Existential Safety researcher](https://futureoflife.org/person/chen-hao/) in [Future of Life Institute](https://futureoflife.org)
 
 
 Media Coverage
