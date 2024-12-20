@@ -73,7 +73,7 @@ Publications
 ## Conferences
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
   Jiayuan Luo, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Dingyi Zhuang, **Hao Chen**, Xinke Jiang<br>
-  *AAAI2025:[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
+  *AAAI2025(Poster):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
   [[arXiv](https://browse.arxiv.org/abs/2401.17350)] [[Code](https://github.com/WentaoZhang2001/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin<br>
@@ -225,6 +225,7 @@ Professional Services
 ## Journal Reviewer
 * TNNLS: [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * IoT: [IEEE Internet of Things Journal](https://www.sciencedirect.com/journal/internet-of-things)
+* TAGI: [Annals of GIS](https://www.tandfonline.com/journals/tagi20/about-this-journal#aims-and-scope)
 
 
 ## Other Activities
