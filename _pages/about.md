@@ -69,12 +69,11 @@ Experiences
 Publications
 ======
 
-
 ## Conferences
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
-  Jiayuan Luo, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Dingyi Zhuang, **Hao Chen**, Xinke Jiang<br>
+  Xinke Jiang, WentaoZhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
   *AAAI2025(Poster):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
-  [[arXiv](https://browse.arxiv.org/abs/2401.17350)] [[Code](https://github.com/WentaoZhang2001/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
+  [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin<br>
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
