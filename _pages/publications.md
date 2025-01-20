@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conferences
+* **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
+  Xinke Jiang, WentaoZhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
+  *AAAI2025(Oral):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
+  [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin<br>
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
@@ -64,9 +68,13 @@ author_profile: true
   [[Workshop on Ad Hoc Teamwork](https://sites.google.com/view/ad-hoc-teamwork)]
 
 ## Pre-prints
-* **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
-  Jiayuan Luo, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Dingyi Zhuang, **Hao Chen**, Xinke Jiang<br>
-  [[arXiv](https://browse.arxiv.org/abs/2401.17350)] [[Code](https://github.com/WentaoZhang2001/DBLM)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
+* **Multi-Channel Spatio-Temporal Data Fusion of Network-Wide "Big" and "Small" Flow Data**<br>
+  Tao Cheng*, **Hao Chen***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
+  [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] 
+* **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
+  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
+  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
+  [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
 * **Transformer in Transformer as Backbone for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, **Hao Chen**, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, Zhen Xiao<br>
   [[arXiv](https://arxiv.org/abs/2212.14538)] [[Code](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](https://timebreaker.github.io/files/TIT.bib)]
