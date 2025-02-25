@@ -133,7 +133,7 @@ Publications
 
 ## Pre-prints
 * **Multi-Channel Spatio-Temporal Data Fusion of Network-Wide "Big" and "Small" Flow Data**<br>
-  Tao Cheng*, **Hao Chen***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
+  Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
   [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] 
 * **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
   Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
@@ -208,15 +208,22 @@ Professional Services
 
 
 ## Program Committee Member
-* AAMAS 2025：[the 24th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2025.org/)
+* International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025
+* International Conference on Multimedia and Expo (ICME) 2025
+* International Joint Conference on Artificial Intelligence (IJCAI) 2023, 2024, 2025
+* European Conference on Artificial Intelligence (ECAI) 2023
+* International Symposium on Multi-Robot and Multi-Agent Systems (MRS) 2023
+* International Conference on Machine Learning (ICML) 2022
+* Chinese Automation Congress (CAC) 2022, 2023
+
+<!-- * AAMAS 2025：[the 24th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2025.org/)
 * IJCAI 2024：[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)
 * IJCAI 2023：[the 32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org/)
 * ECAI 2023：[the 26th European Conference on Artificial Intelligence](https://ecai2023.eu/)
 * MRS 2023：[the 4th International Symposium on Multi-Robot and Multi-Agent Systems](https://sites.bu.edu/mrs2023/)
 * CAC 2023: [the Chinese Automation Congress](https://www.cac2023.org.cn/)
-<!-- * IVPAI 2023: [the 5th International Conference on Image, Video Processing and Artificial Intelligence](https://www.ivpai.org) -->
 * ICML 2022: [the 39th International Conference on Machine Learning](https://icml.cc/Conferences/2022)
-* CAC 2022: [the Chinese Automation Congress](http://www.cac2022.org.cn/)
+* CAC 2022: [the Chinese Automation Congress](http://www.cac2022.org.cn/) -->
 
 <!-- Projects，Technical Reports，Writings，Services -->
 
