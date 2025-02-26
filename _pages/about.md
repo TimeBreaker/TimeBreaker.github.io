@@ -235,8 +235,8 @@ Professional Services
 
 
 ## Other Activities
+* 2024.10 - Present : [AI Existential Safety researcher](https://futureoflife.org/person/chen-hao/) in [Future of Life Institute](https://futureoflife.org)
 * 2022.7 [The IEEE CIS Student and Early Career mentoring program](https://wcci2022.org/ieee-cis-student-and-early-career-mentoring-program/)
-* [AI Existential Safety researcher](https://futureoflife.org/person/chen-hao/) in [Future of Life Institute](https://futureoflife.org)
 
 
 Media Coverage
