@@ -58,7 +58,7 @@ Education
 
 Experiences
 ======
-* 2022.7 - Present : Research internship at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)
+* 2022.7 - Present : Joint PhD Training Program at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)
 * 2019.2 - 2019.7 : Research internship at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Junge Zhang](http://people.ucas.edu.cn/~ZHANGJUNGE) and [Prof. Qiyue Yin](http://people.ucas.edu.cn/~yqy)
 * 2019.1 : Winter camp at [Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences](http://english.opt.cas.cn/)
 * 2018.3 - 2018.7 : Research internship at [Institute of Software, Chinese Academy of Sciences](http://www.is.cas.cn/), advised by [Prof. Wensheng Dou](http://people.ucas.edu.cn/~wsdou)
@@ -199,6 +199,7 @@ Professional Services
 
 
 ## Invited Talks
+* 2024.4.16 Invited talk "Calibrating Driving Flow Data through the Integration of Big and Small Data: The Graph Transformer Network Approach" at session [SpaceTimeAI for Multi-Model Data Fusion](https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7798) of [the 2024 annual meeting of the American Association of Geographers](https://www.aag.org/events/aag2024/)<br>
 * 2024.3.19 Invited talk "Spatio-Temporal Data Fusion" at [Spatial-Temporal Data Analysis and Data Mining (CEGE0042)](https://www.ucl.ac.uk/module-catalogue/modules/CEGE0042), a core course for MSc Geospatial Science and MSc Spatio-temporal Analytics and Big Data Mining, led by [Dr James Haworth](https://profiles.ucl.ac.uk/24884)<br>
 * 2023.9.29 Invited talk "Multi-Agent Deep Reinforcement Learning: Background and Recent Works" at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)<br>
 * 2023.9.8 Invited talk "Research Experience Sharing" at [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh)<br>
@@ -271,11 +272,11 @@ Student Activities
 For More Info
 ======
 * [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/)
-* [Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/)
-* [Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/)
+<!-- * [Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/) -->
+<!-- * [Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/) -->
 * [Center for Research on Intelligent System and Engineering](http://www.crise.ia.ac.cn/)
-* [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)
-* [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
+<!-- * [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) -->
+<!-- * [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) -->
 * [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)
 
 
