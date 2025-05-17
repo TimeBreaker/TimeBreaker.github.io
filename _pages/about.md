@@ -73,8 +73,7 @@ Publications
 * **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
   Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
   *ACL2025:[the 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/)*<br>
-  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
-  [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
+  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
   Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
   *AAAI2025(Oral):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
