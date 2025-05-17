@@ -70,6 +70,11 @@ Publications
 ======
 
 ## Conferences
+* **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
+  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
+  *ACL2025:[the 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/)*<br>
+  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
+  [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
   Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
   *AAAI2025(Oral):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
@@ -135,10 +140,6 @@ Publications
 * **Multi-Channel Spatio-Temporal Data Fusion of Network-Wide "Big" and "Small" Flow Data**<br>
   Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
   [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] 
-* **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
-  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
-  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] 
-  [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
 * **Transformer in Transformer as Backbone for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, **Hao Chen**, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, Zhen Xiao<br>
   [[arXiv](https://arxiv.org/abs/2212.14538)] [[Code](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](https://timebreaker.github.io/files/TIT.bib)]
