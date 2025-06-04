@@ -115,8 +115,15 @@ Publications
   Yifei Chen, Zhourui Guo, Qiyue Yin, **Hao Chen**, Kaiqi Huang<br>
   *IJCNN2022(Poster):[the 2022 International Joint Conference on Neural Networks](https://wcci2022.org/)*<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9892632/)] [[bibTeX](https://timebreaker.github.io/files/IJCNN2022-4.bib)]
+* **Playing GuanDan with Large Language Models based on Prompt Engineering**<br>
+  Tianchang Zhao, Jianbin Jiao, **Hao Chen**<br>
+  *ICAITA2025:[the 2025 7th International Conference on Artificial Intelligence Technologies and Applica](https://www.ic-aita.org/)*<br>
+
 
 ## Journals
+* **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
+  Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang<br>
+  *[IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*
 * **Local Observation Reconstruction for Ad-Hoc Cooperation**<br>
   (面向Ad-Hoc协作的局部观测重建方法)<br>
   **Hao Chen**, Likun Yang, Qiyue Yin, Kaiqi Huang<br>
