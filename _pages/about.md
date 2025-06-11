@@ -87,6 +87,10 @@ Publications
   Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao<br>
   *CIKM2023(Poster):[the 32nd ACM International Conference on Information and Knowledge Management](https://uobevents.eventsair.com/cikm2023/)*<br>
   [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615215)] [[arXiv](https://arxiv.org/abs/2306.09882)] [[Code](https://github.com/STTDAnonymous/STTD)] [[Poster](https://timebreaker.github.io/files/CIKM2023.pdf)] [[bibTeX](https://timebreaker.github.io/files/STTD.bib)]
+* **Consensus Learning for Cooperative Multi-Agent Reinforcement Learning**<br>
+  Zhiwei Xu, Bin Zhang, Dapeng Li, Zeren Zhang, Guangchong Zhou, **Hao Chen**, Guoliang Fan<br>
+  *AAAI2023(Oral):[the 37th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/)*<br>
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385/26157)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[bibTeX](https://timebreaker.github.io/files/AAAI2023-1.bib)]
 * **Explicitly Learning Policy Under Partial Observability in Multiagent Reinforcement Learning**<br>
   Chen Yang, Guangkai Yang, **Hao Chen**, Junge Zhang<br>
   *IJCNN2023(Oral):[the 2022 International Joint Conference on Neural Networks](https://2023.ijcnn.org/)*<br>
@@ -95,10 +99,6 @@ Publications
   Yang Yu, Qiyue Yin, Junge Zhang, **Hao Chen**, Kaiqi Huang<br>
   *IJCNN2023(Oral):[the 2022 International Joint Conference on Neural Networks](https://2023.ijcnn.org/)*<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10191833)] [[Slides](https://timebreaker.github.io/files/USM.pdf)] [[bibTeX](https://timebreaker.github.io/files/IJCNN2023-2.bib)]
-* **Consensus Learning for Cooperative Multi-Agent Reinforcement Learning**<br>
-  Zhiwei Xu, Bin Zhang, Dapeng Li, Zeren Zhang, Guangchong Zhou, **Hao Chen**, Guoliang Fan<br>
-  *AAAI2023(Oral):[the 37th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/)*<br>
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385/26157)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[bibTeX](https://timebreaker.github.io/files/AAAI2023-1.bib)]
 * **RACA: Relation-Aware Credit Assignment for Ad-Hoc Cooperation in Multi-Agent Deep Reinforcement Learning**<br>
   **Hao Chen**, Guangkai Yang, Junge Zhang, Qiyue Yin, Kaiqi Huang<br>
   *IJCNN2022(Oral):[the 2022 International Joint Conference on Neural Networks](https://wcci2022.org/)*<br>
