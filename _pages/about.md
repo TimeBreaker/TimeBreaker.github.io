@@ -289,6 +289,4 @@ For More Info
 
 Contact
 ======
-* chenhao915@mails.ucas.ac.cn (Main)
-* hao.chen@ucl.ac.uk (Valid from 2023.9 - 2024.8)
-* chenhao2019@ia.ac.cn (Valid from 2019.9 - 2022.8)
+* chenhao915@mails.ucas.ac.cn
