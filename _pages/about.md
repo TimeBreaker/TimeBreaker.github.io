@@ -121,9 +121,14 @@ Publications
 
 
 ## Journals
+* **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
+  Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
+  *[ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)*<br>
+  [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] 
 * **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang<br>
-  *[IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*
+  *[IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*<br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)] 
 * **Local Observation Reconstruction for Ad-Hoc Cooperation**<br>
   (面向Ad-Hoc协作的局部观测重建方法)<br>
   **Hao Chen**, Likun Yang, Qiyue Yin, Kaiqi Huang<br>
@@ -219,10 +224,12 @@ Professional Services
 * International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025
 * International Conference on Multimedia and Expo (ICME) 2025
 * International Joint Conference on Artificial Intelligence (IJCAI) 2023, 2024, 2025
+* AAAI Conference on Artificial Intelligence (AAAI) 2025
 * European Conference on Artificial Intelligence (ECAI) 2023
 * International Symposium on Multi-Robot and Multi-Agent Systems (MRS) 2023
 * International Conference on Machine Learning (ICML) 2022
 * Chinese Automation Congress (CAC) 2022, 2023
+* Distributed Artificial Intelligence (DAI) 2025
 
 <!-- * AAMAS 2025：[the 24th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2025.org/)
 * IJCAI 2024：[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)
@@ -238,9 +245,10 @@ Professional Services
 
 ## Journal Reviewer
 * TNNLS: [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* ToG: [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
 * IoT: [IEEE Internet of Things Journal](https://www.sciencedirect.com/journal/internet-of-things)
 * TAGI: [Annals of GIS](https://www.tandfonline.com/journals/tagi20/about-this-journal#aims-and-scope)
-
+* IS: [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 
 ## Other Activities
 * 2024.10 - Present : [AI Existential Safety researcher](https://futureoflife.org/person/chen-hao/) in [Future of Life Institute](https://futureoflife.org)
