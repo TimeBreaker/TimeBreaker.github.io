@@ -221,7 +221,7 @@ Professional Services
 
 
 ## Program Committee Member
-* International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025
+* International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025 2026
 * International Conference on Multimedia and Expo (ICME) 2025
 * International Joint Conference on Artificial Intelligence (IJCAI) 2023, 2024, 2025
 * AAAI Conference on Artificial Intelligence (AAAI) 2025
