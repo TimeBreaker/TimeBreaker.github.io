@@ -73,15 +73,15 @@ Publications
 * **TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
   Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
   *ACL2025:[the 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/)*<br>
-  [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
+  [[Paper](https://openreview.net/forum?id=SemHzSN0gD#discussion)] [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](https://timebreaker.github.io/files/RAG.bib)]
 * **Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
   Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
   *AAAI2025(Oral):[the 39th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-25/)*<br>
-  [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[Slides](https://timebreaker.github.io/files/DBLM_PPT.pdf)] [[Poster](https://timebreaker.github.io/files/DBLM_poster.pdf)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33292)] [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[Slides](https://timebreaker.github.io/files/DBLM_PPT.pdf)] [[Poster](https://timebreaker.github.io/files/DBLM_poster.pdf)] [[bibTeX](https://timebreaker.github.io/files/DBLM.bib)]
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin<br>
   *AAMAS2024(Oral):[the 23rd International Conference on Autonomous Agents and Multi-Agent Systems](https://www.aamas2024-conference.auckland.ac.nz/)*<br>
-  [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](https://timebreaker.github.io/files/PDiT.bib)]
+  [[Paper](https://dl.acm.org/doi/abs/10.5555/3635637.3662995)] [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](https://timebreaker.github.io/files/PDiT.bib)]
   <!-- 毛航宇，赵瑞，黎子玥，徐志伟，陈皓，陈逸群，张斌，肖臻，张俊格，尹江津 -->
 * **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**<br>
   Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao<br>
@@ -90,7 +90,7 @@ Publications
 * **Consensus Learning for Cooperative Multi-Agent Reinforcement Learning**<br>
   Zhiwei Xu, Bin Zhang, Dapeng Li, Zeren Zhang, Guangchong Zhou, **Hao Chen**, Guoliang Fan<br>
   *AAAI2023(Oral):[the 37th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/)*<br>
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385/26157)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[bibTeX](https://timebreaker.github.io/files/AAAI2023-1.bib)]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[bibTeX](https://timebreaker.github.io/files/AAAI2023-1.bib)]
 * **Explicitly Learning Policy Under Partial Observability in Multiagent Reinforcement Learning**<br>
   Chen Yang, Guangkai Yang, **Hao Chen**, Junge Zhang<br>
   *IJCNN2023(Oral):[the 2022 International Joint Conference on Neural Networks](https://2023.ijcnn.org/)*<br>
