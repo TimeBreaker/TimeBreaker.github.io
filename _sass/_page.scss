@@ -11,6 +11,10 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($large) {
+    max-width: $large + 120px;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
@@ -19,8 +23,8 @@
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include prefix(0.3 of 12);
+    @include suffix(0.1 of 12);
   }
 
   .page__inner-wrap {
@@ -50,13 +54,23 @@
 
 .page__content {
 
+  > h1, > h2 {
+    margin-top: 1em;
+    margin-bottom: 0.35em;
+  }
+
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.3em;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.94rem;
+  }
+
+  > ul > li, > ol > li {
+    line-height: 1.4;
+    margin-bottom: 0.32em;
   }
 
   /* paragraph indents */
@@ -398,4 +412,72 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__content .research-table {
+  table-layout: fixed;
+  border: 1px solid #dce5e8;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 0.83rem;
+  line-height: 1.5;
+  margin: 0.8em 0 1.2em;
+
+  thead {
+    background: #edf3f5;
+  }
+
+  th, td {
+    padding: 0.8em 1em;
+    border: 0;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+  }
+
+  th {
+    color: #294c58;
+    font-size: 0.8rem;
+    border-bottom: 1px solid #dce5e8;
+  }
+
+  th:first-child, td:first-child {
+    width: 47%;
+  }
+
+  tbody tr + tr td {
+    border-top: 1px solid #e3eaed;
+  }
+
+  tbody tr:nth-child(even) {
+    background: #f7f9fa;
+  }
+
+  td:first-child strong {
+    display: inline-block;
+    margin-bottom: 0.3em;
+    color: #294c58;
+  }
+
+  a {
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover, &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+
+  @media (max-width: 600px) {
+    font-size: 0.8rem;
+
+    th, td {
+      padding: 0.65em;
+    }
+
+    th:first-child, td:first-child {
+      width: 44%;
+    }
+  }
 }
