@@ -1,11 +1,13 @@
 main:
+  - title: About Me
+    url: "#about-me"
   - title: Research
     url: "#research"
-  - title: Publications
-    url: "#publications"
   - title: Education
     url: "#education"
+  - title: Publications
+    url: "#publications"
   - title: Experience
-    url: "#experiences"
-  - title: Service
-    url: "#professional-services"
+    url: "#experience"
+  - title: Awards
+    url: "#awards--honors"
