@@ -5,20 +5,20 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. If you are interested with my experience or research, please feel free to contact me via [Email](mailto:chenhao915@mails.ucas.ac.cn).
+I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. If you are interested in my experience or research, please feel free to contact me via [Email](mailto:chenhao915@mails.ucas.ac.cn).
 
 Research
 ======
 
-My research asks how agents can learn and make reliable decisions when their teammates, tasks, or environments change.
+![Research overview showing multi-agent cooperation, LLM reasoning, and financial decision-making, with representative papers and publication venues.](/images/research-overview.png)
 
-{: .research-table}
-| Research direction | Selected and related papers |
-| --- | --- |
-| **Multi-Agent Cooperation and Generalization**<br>How can agents adapt to unfamiliar teammates and sustain coordination? | [RACA](#paper-raca) · IJCNN 2022 Oral<br>[HCL](#paper-hcl) · ECML PKDD 2026 Oral<br>[DLCA](#paper-dlca), [PD-MARL](#paper-pd-marl) · CIKM 2026<br>Related: [COLA](#paper-cola), [Local Observation Reconstruction](#paper-lor) |
-| **Efficient and Consistent LLM Reasoning**<br>How can models combine redundant reasoning paths and keep long-horizon decisions consistent? | [RAC](#paper-rac), [AdaCon](#paper-adacon) · CIKM 2026<br>Related: [TC-RAG](#paper-tc-rag) · ACL 2025 |
-| **Robust Sequential Decision-Making in Financial Markets**<br>How can portfolio policies generalize when market conditions change? | [DRPO](#paper-drpo) · IJCAI 2026 GLOW Workshop<br>Related: [Deep Black-Litterman](#paper-dblm) · AAAI 2025 Oral, supplier order allocation |
-
+Education
+======
+* 2023.9 - 2024.8 : Visiting Scholar at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), advised by [Prof. Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)
+* 2022.9 - Present : Ph.D. in Computer Science, [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh), advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin)
+* 2019.9 - 2022.6 : M.S. in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Kaiqi Huang](http://people.ucas.ac.cn/~huangkaiqi?language=en)
+* 2015.9 - 2019.6 : B.E. in Computer Science, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by [Prof. Yidong Gu](https://casad.cas.cn/ysxx2022/ysmd/jskx/200906/t20090624_1808361.html)
+* 2012.9 - 2015.6 : [Northeast Yucai School](https://www.neyc.cn/Category_1451/Index.aspx)
 
 
 Publications
@@ -27,23 +27,23 @@ Publications
 ## Conferences
 * <span id="paper-dlca"></span>**Dual-Level Consensus Alignment for Multi-Agent Cooperation**<br>
   **Hao Chen**, Meiqi Wu, Yang Yu, Kaiqi Huang, Jianbin Jiao<br>
-  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840024)]
+  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840024)] [[bibTeX](/files/DLCA.bib)]
 * <span id="paper-pd-marl"></span>**Prototype-Driven Multi-Agent Reinforcement Learning for Active Voltage Control via Contrastive Latent Conditioning**<br>
   **Hao Chen**, Meiqi Wu, Yang Yu, Kaiqi Huang, Jianbin Jiao<br>
-  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840025)]
+  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840025)] [[bibTeX](/files/PD-MARL.bib)]
 * <span id="paper-rac"></span>**Redundancy-Aware Self-Consistency for Efficient LLM Reasoning**<br>
   **Hao Chen**, Xinke Jiang, Kaiqi Huang, Jianbin Jiao<br>
-  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840000)]
+  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840000)] [[bibTeX](/files/RAC.bib)]
 * <span id="paper-adacon"></span>**AdaCon: Learning Adaptive Trust Regions for Consistent LLM Agent Reasoning**<br>
   **Hao Chen**, Xinke Jiang, Kaiqi Huang, Jianbin Jiao<br>
-  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840027)]
+  *[CIKM2026](https://cikm2026.diag.uniroma1.it/)* · [[Paper](https://doi.org/10.1145/3799682.3840027)] [[bibTeX](/files/AdaCon.bib)]
 * <span id="paper-hcl"></span>**Hierarchical Cognitive Learning for Cooperative Multi-agent Reinforcement Learning**<br>
   **Hao Chen**, Meiqi Wu, Yang Yu, Kaiqi Huang, Jianbin Jiao<br>
-  *[ECML PKDD2026](https://ecmlpkdd.org/2026/) (Oral)* · [[Paper](https://doi.org/10.1007/978-3-032-37670-1_19)]
-* <span id="paper-tc-rag"></span>**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**<br>
-  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<br>
-  *[ACL2025](https://2025.aclweb.org/)* · [[Paper](https://openreview.net/forum?id=SemHzSN0gD#discussion)] [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](/files/RAG.bib)]
-* <span id="paper-dblm"></span>**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**<br>
+  *[ECML PKDD2026](https://ecmlpkdd.org/2026/) (Oral)* · [[Paper](https://doi.org/10.1007/978-3-032-37670-1_19)] [[bibTeX](/files/HCL.bib)]
+* <span id="paper-tc-rag"></span>**TC-RAG: Turing-Complete RAG's Case study on Medical LLM Systems**<br>
+  Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma, Xu Chu, Junfeng Zhao, Yasha Wang<br>
+  *[ACL2025](https://2025.aclweb.org/)* · [[Paper](https://aclanthology.org/2025.acl-long.558/)] [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](/files/RAG.bib)]
+* <span id="paper-dblm"></span>**Time Series Supplier Allocation via Deep Black-Litterman Model**<br>
   Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo <br>
   *[AAAI2025](https://aaai.org/Conferences/AAAI-25/) (Oral)* · [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33292)] [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[Slides](/files/DBLM_PPT.pdf)] [[Poster](/files/DBLM_poster.pdf)] [[bibTeX](/files/DBLM.bib)]
 * <span id="paper-pdit"></span>**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
@@ -76,16 +76,16 @@ Publications
   *[IJCNN2022](https://wcci2022.org/) (Poster)* · [[Paper](https://ieeexplore.ieee.org/abstract/document/9892632/)] [[bibTeX](/files/IJCNN2022-4.bib)]
 * **Playing GuanDan with Large Language Models based on Prompt Engineering**<br>
   Tianchang Zhao, Yabin Wang, Jianbin Jiao, **Hao Chen**<br>
-  *[ICAITA2025](https://www.ic-aita.org/)*
+  *[ICAITA2025](https://www.ic-aita.org/)* [[bibTeX](/files/GuanDan.bib)]
 
 
 ## Journals
 * **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
   Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
-  *[ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)* · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)]
+  *[ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)* · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] [[bibTeX](/files/MCST-DF.bib)]
 * **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang<br>
-  *[IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)* · [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)]
+  *[IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)* · [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)] [[bibTeX](/files/EED.bib)]
 * <span id="paper-lor"></span>**Local Observation Reconstruction for Ad-Hoc Cooperation**<br>
   (面向Ad-Hoc协作的局部观测重建方法)<br>
   **Hao Chen**, Likun Yang, Qiyue Yin, Kaiqi Huang<br>
@@ -106,7 +106,7 @@ Publications
 ## Pre-prints
 * **Multi-Channel Spatio-Temporal Data Fusion of Network-Wide "Big" and "Small" Flow Data**<br>
   Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao<br>
-  [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] 
+  [[Paper(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027625)] [[bibTeX](/files/MCST-DF-SSRN.bib)]
 * **Transformer in Transformer as Backbone for Deep Reinforcement Learning**<br>
   Hangyu Mao, Rui Zhao, **Hao Chen**, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, Zhen Xiao<br>
   [[arXiv](https://arxiv.org/abs/2212.14538)] [[Code](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](/files/TIT.bib)]
@@ -126,22 +126,13 @@ Publications
 <!-- Paper, arXiv, Blog, Code, Slides, Video, bibTeX, Data, Website, Project page, Poster, Reviews, Link, Appendix, Reviews -->
 
 
-Education
-======
-* 2023.9 - 2024.8 : Visiting Scholar at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), advised by [Prof. Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)
-* 2022.9 - Present : Ph.D. in Computer Science, [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh), advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin)
-* 2019.9 - 2022.6 : M.S. in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Kaiqi Huang](http://people.ucas.ac.cn/~huangkaiqi?language=en)
-* 2015.9 - 2019.6 : B.E. in Computer Science, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by [Prof. Yidong Gu](http://people.ucas.ac.cn/~guyidongcsu?language=en)
-* 2012.9 - 2015.6 : [Northeast Yucai School](https://www.neyc.cn/Category_1451/Index.aspx)
-
-
 Experiences
 ======
 * 2022.7 - Present : Joint PhD Training Program at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)
 * 2019.2 - 2019.7 : Research internship at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Junge Zhang](http://people.ucas.edu.cn/~ZHANGJUNGE) and [Prof. Qiyue Yin](http://people.ucas.edu.cn/~yqy)
 * 2019.1 : Winter camp at [Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences](http://english.opt.cas.cn/)
 * 2018.3 - 2018.7 : Research internship at [Institute of Software, Chinese Academy of Sciences](http://www.is.cas.cn/), advised by [Prof. Wensheng Dou](http://people.ucas.edu.cn/~wsdou)
-* 2016.7 - 2016.9 : Research internship at [Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences](http://www.csu.cas.cn/), advised by [Prof. Yidong Gu](http://people.ucas.ac.cn/~guyidongcsu?language=en)
+* 2016.7 - 2016.9 : Research internship at [Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences](http://www.csu.cas.cn/), advised by [Prof. Yidong Gu](https://casad.cas.cn/ysxx2022/ysmd/jskx/200906/t20090624_1808361.html)
 * 2014.7 : Summer camp at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
 
@@ -185,35 +176,35 @@ Professional Services
 
 ## Program Committee Member / Conference Reviewer
 
-[ICLR](https://iclr.cc/) 2026 · [NeurIPS](https://neurips.cc/) 2026 · [AAAI](https://aaai.org/conference/aaai/) 2025, 2026, 2027 · [AAMAS](https://www.ifaamas.org/previousaamas.html) 2025, 2026 · [IJCAI](https://www.ijcai.org/) 2023, 2024, 2025 · [IJCAI-ECAI](https://2026.ijcai.org/) 2026 · [ECML-PKDD](https://ecmlpkdd.org/2026/) 2026 · [ICASSP](https://signalprocessingsociety.org/conferences-events/icassp) 2026 · [ICME](https://signalprocessingsociety.org/event-names/icme) 2025, 2026 · [IJCNN](https://ijcnn.org/2027) 2027 · [ECAI](https://ecai2023.eu/) 2023 · [MRS](https://sites.bu.edu/mrs2023/) 2023 · [ICML](https://icml.cc/Conferences/2022) 2022 · [CAC](https://www.cac2023.org.cn/) 2022, 2023 · [DAI](https://www.adai.ai/) 2025, 2026
+[ICLR](https://iclr.cc/) 2026 · [NeurIPS](https://neurips.cc/) 2026 · [AAAI](https://aaai.org/conference/aaai/) 2025, 2026, 2027 · [AAMAS](https://www.ifaamas.org/previousaamas.html) 2025, 2026 · [IJCAI](https://www.ijcai.org/) 2023, 2024, 2025 · [IJCAI-ECAI](https://2026.ijcai.org/) 2026 · [ECML-PKDD](https://ecmlpkdd.org/2026/) 2026 · [ICASSP](https://2026.ieeeicassp.org/) 2026 · [ICME](https://signalprocessingsociety.org/event-names/icme) 2025, 2026 · [IJCNN](https://ijcnn.org/2027) 2027 · [ECAI](https://ecai2023.eu/) 2023 · [MRS](https://sites.bu.edu/mrs2023/) 2023 · [ICML](https://icml.cc/Conferences/2022) 2022 · [CAC](https://www.caa.org.cn/Uploads/image/file/20230310/20230310144525_12820.pdf) 2022, 2023 · [DAI](https://www.adai.ai/) 2025, 2026
 
 ## Journal Reviewer
 
 [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 "IEEE Transactions on Neural Networks and Learning Systems") · [ToG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673 "IEEE Transactions on Games") · [IoT](https://ieee-iotj.org/ "IEEE Internet of Things Journal") · [TAGI](https://www.tandfonline.com/journals/tagi20/about-this-journal#aims-and-scope "Annals of GIS") · [IS](https://www.sciencedirect.com/journal/information-sciences "Information Sciences") · [CAAI TIT](https://ietresearch.onlinelibrary.wiley.com/journal/24682322 "CAAI Transactions on Intelligence Technology") 2026 · [TSMC: Systems](https://www.ieeesmc.org/publications/transactions-on-systems-man-and-cybernetics-systems/ "IEEE Transactions on Systems, Man, and Cybernetics: Systems")
 
 ## Other Activities
-* 2024.10 - Present : [AI Existential Safety researcher](https://futureoflife.org/person/chen-hao/) in [Future of Life Institute](https://futureoflife.org)
+* 2024.10 - Present : Member, [AI Safety Community Researchers](https://futureoflife.org/person/chen-hao/), [Future of Life Institute](https://futureoflife.org)
 * 2022.7 [The IEEE CIS Student and Early Career mentoring program](https://wcci2022.org/ieee-cis-student-and-early-career-mentoring-program/)
 
 
 Media Coverage
 ======
-* 2018 [Repot by UCAS School Magazine](/files/201803.pdf)
+* 2018 [Report by UCAS School Magazine](/files/201803.pdf)
 * 2017 [Cover Person of UCAS School Magazine](/files/201704.pdf)
 * 2017 [Talk on the Preparation of the College Entrance Examination](https://mp.weixin.qq.com/s/GIXhrFr_2vY9qSNG1PXOFg)
 
 
 Maintained Projects
 ======
-* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/stargazers)
-* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/stargazers)
-* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/stargazers)
-* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)
+* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)
+* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code)
+* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection)
+* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)
 
-<!-- * [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers?label=last%20update)
-* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-papers-with-code?label=last%20update)
-* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-resources-collection?label=last%20update)
-* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/stargazers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Adversarial-Reinforcement-Learning-Papers?label=last%20update) -->
+<!-- * [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers?label=last%20update)
+* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-papers-with-code?label=last%20update)
+* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/MARL-resources-collection?label=last%20update)
+* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  ![GitHub last commit](https://img.shields.io/github/last-commit/TimeBreaker/Adversarial-Reinforcement-Learning-Papers?label=last%20update) -->
 
 
 Student Activities
