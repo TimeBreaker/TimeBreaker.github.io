@@ -5,18 +5,18 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 0.75em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($large) {
-    max-width: $large + 120px;
+    max-width: $large + 220px;
   }
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $x-large + 100px;
   }
 }
 
@@ -54,14 +54,23 @@
 
 .page__content {
 
-  > h1, > h2 {
-    margin-top: 1em;
-    margin-bottom: 0.35em;
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 0.65em;
+    margin-bottom: 0.25em;
   }
 
   h2 {
-    padding-bottom: 0.3em;
+    padding-bottom: 0.15em;
     border-bottom: 1px solid $border-color;
+  }
+
+  ul, ol {
+    margin-top: 0.25em;
+    margin-bottom: 0.65em;
+  }
+
+  .publication-list > h2:first-child {
+    margin-top: 0.2em;
   }
 
   p, li, dl {
@@ -75,7 +84,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.65em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -412,4 +421,49 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__content .award-name {
+  @include breakpoint($large) {
+    white-space: nowrap;
+  }
+}
+
+.page__content .publication-list {
+  li {
+    font-size: 0.94rem;
+    line-height: 1.35;
+    margin-bottom: 0.65em;
+  }
+
+  .publication-meta {
+    font-size: 0.85rem;
+    line-height: 1.35;
+    color: #505a63;
+  }
+
+  .publication-venue {
+    display: inline-block;
+    padding: 0.08em 0.45em;
+    margin-right: 0.2em;
+    border-radius: 4px;
+    background: #edf3f5;
+    color: #294c58;
+    font-size: 0.75rem;
+    font-weight: 600;
+    vertical-align: baseline;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover, &:focus-visible {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.page__content #education + ul > li {
+  font-size: 0.88rem;
 }
