@@ -78,8 +78,10 @@
     figure.addEventListener('click', e => {
       if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
       e.preventDefault();
+      // Capture before the theme's image-preview handler to avoid two overlays.
+      e.stopImmediatePropagation();
       previousFocus = figure;
-      imageDialog.showModal();
-    });
+      if (!imageDialog.open) imageDialog.showModal();
+    }, true);
   }
 })();
