@@ -29,3 +29,7 @@
 .language-switch a { display:inline-block; padding:6px 3px; color:#647581; }
 .language-switch a[aria-current="page"] { color:#24486a; font-weight:700; }
 html[lang="zh"] .page__content { line-height:1.5; }
+
+/* Keep language switching reachable without leaving the current section. */
+.masthead { position:sticky; top:0; background:#fff; }
+.page__content h1[id], .page__content h2[id], .page__content li[id] { scroll-margin-top:65px; }

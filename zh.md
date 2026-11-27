@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="publication-list" markdown="1">
 
-## 会议论文
+## 会议论文 {#conferences}
 * <span id="paper-dlca"></span><span class="publication-venue" markdown="span">[CIKM2026](https://cikm2026.diag.uniroma1.it/) (海报)</span> **Dual-Level Consensus Alignment for Multi-Agent Cooperation**<br>
   <span class="publication-meta" markdown="span">**Hao Chen**, Meiqi Wu, Yang Yu, Kaiqi Huang, Jianbin Jiao · [[论文](https://doi.org/10.1145/3799682.3840024)] [[bibTeX](/files/DLCA.bib)]</span>
 * <span id="paper-pd-marl"></span><span class="publication-venue" markdown="span">[CIKM2026](https://cikm2026.diag.uniroma1.it/) (海报)</span> **Prototype-Driven Multi-Agent Reinforcement Learning for Active Voltage Control via Contrastive Latent Conditioning**<br>
@@ -70,23 +70,23 @@ author_profile: true
 * <span class="publication-venue" markdown="span">[ICAITA2025](https://www.ic-aita.org/)</span> **Playing GuanDan with Large Language Models based on Prompt Engineering**<br>
   <span class="publication-meta" markdown="span">Tianchang Zhao, Yabin Wang, Jianbin Jiao, **Hao Chen** · [[bibTeX](/files/GuanDan.bib)]</span>
 
-## 期刊论文
+## 期刊论文 {#journals}
 * <span class="publication-venue" markdown="span">[IJGI 2025](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
   <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · **共同第一作者** · [[论文](https://www.mdpi.com/2220-9964/14/8/286)] [[**封面论文**](https://www.mdpi.com/2220-9964/14/8)] [[开放访问](https://discovery.ucl.ac.uk/id/eprint/10215393/)] [[bibTeX](/files/MCST-DF.bib)]</span>
 * <span id="paper-eed"></span><span class="publication-venue" markdown="span">[T-SMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   <span class="publication-meta" markdown="span">Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang · [[论文](https://ieeexplore.ieee.org/abstract/document/11033165)] [[bibTeX](/files/EED.bib)]</span>
 
-## 研讨会论文
+## 研讨会论文 {#workshop-papers}
 * <span id="paper-drpo"></span><span class="publication-venue" markdown="span">[IJCAI2026](https://2026.ijcai.org/) (研讨会)</span> **Distributional RL for Generalizable Portfolio Optimization**<br>
   <span class="publication-meta" markdown="span">**Hao Chen**, Xing Chen, Jianbin Jiao · [[GLOW Workshop](https://glow-ijcai-2026.github.io/glow-ijcai-2026/)]</span>
 * <span class="publication-venue" markdown="span">[IJCAI2022](https://ijcai-22.org) (研讨会)</span> **RACA: Relation-Aware Credit Assignment for Ad-Hoc Cooperation in Multi-Agent Deep Reinforcement Learning**<br>
   <span class="publication-meta" markdown="span">**Hao Chen**, Guangkai Yang, Junge Zhang, Qiyue Yin, Kaiqi Huang · [[论文](https://ieeexplore.ieee.org/document/9892225/)] [[arXiv](https://arxiv.org/abs/2206.01207)] [[幻灯片](/files/RACA.pdf)] [[bibTeX](/files/IJCNN2022-1.bib)] · [[Workshop on Ad Hoc Teamwork](https://sites.google.com/view/ad-hoc-teamwork)]</span>
 
-## 预印本
+## 预印本 {#pre-prints}
 * **Transformer in Transformer as Backbone for Deep Reinforcement Learning**<br>
   <span class="publication-meta" markdown="span">Hangyu Mao, Rui Zhao, **Hao Chen**, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, Zhen Xiao · [[arXiv](https://arxiv.org/abs/2212.14538)] [[代码](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](/files/TIT.bib)]</span>
 
-## 专利
+## 专利 {#patents}
 * <span class="publication-venue" markdown="span">CN117579358A</span> **Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems**<br>
   (多智能体通信方法、装置、存储介质和电子设备)<br>
   <span class="publication-meta" markdown="span">Junge Zhang, Dan Qiao, **Hao Chen**</span>
