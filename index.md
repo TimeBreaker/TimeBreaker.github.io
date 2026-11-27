@@ -86,11 +86,14 @@ Publications
   <span class="publication-meta" markdown="span">Hangyu Mao, Rui Zhao, **Hao Chen**, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, Zhen Xiao · [[arXiv](https://arxiv.org/abs/2212.14538)] [[Code](https://github.com/maohangyu/TIT_open_source)] [[bibTeX](/files/TIT.bib)]</span>
 
 ## Patents
-* <span class="publication-venue" markdown="span">CN117579358A</span> **Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems** (多智能体通信方法、装置、存储介质和电子设备)<br>
+* <span class="publication-venue" markdown="span">CN117579358A</span> **Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems**<br>
+  (多智能体通信方法、装置、存储介质和电子设备)<br>
   <span class="publication-meta" markdown="span">Junge Zhang, Dan Qiao, **Hao Chen**</span>
-* <span class="publication-venue" markdown="span">CN115660110B</span> **Learning Stochastic Credit Assignment for Cooperative Multi-Agent Reinforcement Learning** (多智能体信用分配方法、装置、可读存储介质和智能体)<br>
+* <span class="publication-venue" markdown="span">CN115660110B</span> **Learning Stochastic Credit Assignment for Cooperative Multi-Agent Reinforcement Learning**<br>
+  (多智能体信用分配方法、装置、可读存储介质和智能体)<br>
   <span class="publication-meta" markdown="span">Junge Zhang, Mingyi Zhang, Guangkai Yang, **Hao Chen**, Kaiqi Huang, Dandan Chen, Lu Wang</span>
-* <span class="publication-venue" markdown="span">CN115018017A</span> **Learning Ensemble Credit Assignment for Multi-Agent Reinforcement Learning** (基于集成学习的多智能体信用分配方法、系统、设备)<br>
+* <span class="publication-venue" markdown="span">CN115018017A</span> **Learning Ensemble Credit Assignment for Multi-Agent Reinforcement Learning**<br>
+  (基于集成学习的多智能体信用分配方法、系统、设备)<br>
   <span class="publication-meta" markdown="span">Junge Zhang, Kaiqi Huang, **Hao Chen**, Guangkai Yang</span>
 
 </div>

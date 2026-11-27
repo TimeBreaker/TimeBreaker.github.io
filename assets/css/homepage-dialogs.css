@@ -1,7 +1,8 @@
 
 .research-figure { display:block; cursor:zoom-in; }
 .research-figure img { width:100%; height:auto; }
-.research-paper-index { margin: .4em 0 .7em; padding: .6em .85em; border-left:3px solid #d6e2ed; background:#f7f9fb; font-size:.82em; line-height:1.65; }
+.research-paper-index { margin: .2em 0 .4em; padding: .35em .65em; border-left:3px solid #d6e2ed; background:#f7f9fb; }
+.page__content .research-paper-index p { margin:0; font-size:.76rem; line-height:1.35; }
 .publication-list [id^="paper-"] { scroll-margin-top:85px; }
 .homepage-dialog { box-sizing:border-box; width:min(780px,92vw); max-height:85vh; padding:0; border:1px solid #d9e1e8; border-radius:12px; color:#263747; background:white; box-shadow:0 18px 70px #0004; }
 .homepage-dialog::backdrop { background:rgba(20,32,45,.65); }
