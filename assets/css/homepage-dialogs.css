@@ -22,3 +22,10 @@
   #main > .sidebar { width:145px; margin-right:0; }
   #main > .page { width:calc(100% - 195px); padding-left:0; }
 }
+
+.masthead__menu { display:flex; align-items:center; gap:12px; }
+.masthead__menu > .greedy-nav { flex:1; min-width:0; }
+.language-switch { flex:none; white-space:nowrap; font-size:14px; }
+.language-switch a { display:inline-block; padding:6px 3px; color:#647581; }
+.language-switch a[aria-current="page"] { color:#24486a; font-weight:700; }
+html[lang="zh"] .page__content { line-height:1.5; }

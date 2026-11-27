@@ -1,5 +1,6 @@
 ---
 permalink: /
+lang: en
 title: "About Me"
 hide_title: true
 excerpt: "About me"

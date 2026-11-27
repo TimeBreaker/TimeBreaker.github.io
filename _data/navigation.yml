@@ -7,3 +7,13 @@ main:
     url: "#experience"
   - title: Awards
     url: "#awards--honors"
+
+zh:
+  - title: 教育经历
+    url: "#education"
+  - title: 研究成果
+    url: "#publications"
+  - title: 科研经历
+    url: "#experience"
+  - title: 奖项荣誉
+    url: "#awards--honors"

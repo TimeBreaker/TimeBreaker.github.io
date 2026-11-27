@@ -2,11 +2,16 @@
 (function () {
   'use strict';
   if (!window.HTMLDialogElement) return;
+  const chinese = document.documentElement.lang === 'zh';
+  const translations = {'Copy':'复制','Copied!':'已复制','Close':'关闭','Loading citation…':'正在加载引用…','Citation copied.':'引用已复制。','Could not load this citation. Please try again.':'无法加载引用，请重试。','Citation selected. Press Ctrl+C or Command+C to copy.':'已选中引用，请按 Ctrl+C 或 Command+C 复制。','Research overview':'研究概览'};
+  const text = value => chinese ? (translations[value] || value) : value;
+  const localize = dialog => { if (chinese) dialog.querySelectorAll('h2, button').forEach(el => { el.textContent = text(el.textContent); }); };
   let previousFocus;
   const modal = document.createElement('dialog');
   modal.className = 'homepage-dialog';
   modal.setAttribute('aria-labelledby', 'citation-dialog-title');
   modal.innerHTML = '<div class="homepage-dialog-header"><h2 id="citation-dialog-title">BibTeX</h2><button type="button" class="citation-copy" disabled>Copy</button><button type="button" class="dialog-close" aria-label="Close dialog">Close</button></div><p class="homepage-dialog-status" role="status" aria-live="polite"></p><pre tabindex="0"></pre>';
+  localize(modal);
   document.body.appendChild(modal);
   const pre = modal.querySelector('pre');
   const copy = modal.querySelector('.citation-copy');
@@ -29,10 +34,10 @@
       previousFocus = link;
       if (request) request.abort();
       request = new AbortController();
-      pre.textContent = 'Loading citation…';
+      pre.textContent = text('Loading citation…');
       status.textContent = '';
       copy.disabled = true;
-      copy.textContent = 'Copy';
+      copy.textContent = text('Copy');
       modal.showModal();
       try {
         const response = await fetch(link.href, { signal: request.signal });
@@ -44,7 +49,7 @@
       } catch (error) {
         if (error.name === 'AbortError') return;
         pre.textContent = '';
-        status.textContent = 'Could not load this citation. Please try again.';
+        status.textContent = text('Could not load this citation. Please try again.');
       }
     });
   });
@@ -53,15 +58,15 @@
     try {
       if (!navigator.clipboard) throw new Error('Clipboard unavailable');
       await navigator.clipboard.writeText(pre.textContent);
-      copy.textContent = 'Copied!';
-      status.textContent = 'Citation copied.';
+      copy.textContent = text('Copied!');
+      status.textContent = text('Citation copied.');
     } catch (_) {
       const range = document.createRange();
       range.selectNodeContents(pre);
       const selection = window.getSelection();
       selection.removeAllRanges();
       selection.addRange(range);
-      status.textContent = 'Citation selected. Press Ctrl+C or Command+C to copy.';
+      status.textContent = text('Citation selected. Press Ctrl+C or Command+C to copy.');
     }
   });
   const figure = document.querySelector('.research-figure');
@@ -71,6 +76,7 @@
     imageDialog.setAttribute('aria-labelledby', 'research-dialog-title');
     imageDialog.innerHTML = '<div class="homepage-dialog-header"><h2 id="research-dialog-title">Research overview</h2><button type="button" class="dialog-close" aria-label="Close research overview">Close</button></div>';
     const img = figure.querySelector('img').cloneNode(true);
+    localize(imageDialog);
     imageDialog.appendChild(img);
     document.body.appendChild(imageDialog);
     wire(imageDialog);
