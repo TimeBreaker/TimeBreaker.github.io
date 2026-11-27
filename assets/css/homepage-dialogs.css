@@ -20,5 +20,5 @@
 /* Give the main column more room beside the desktop author profile. */
 @media (min-width:1200px) {
   #main > .sidebar { width:145px; margin-right:0; }
-  #main > .page { width:calc(100% - 155px); padding-left:0; }
+  #main > .page { width:calc(100% - 195px); padding-left:0; }
 }
