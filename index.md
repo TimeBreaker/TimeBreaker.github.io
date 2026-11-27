@@ -71,7 +71,7 @@ Publications
 
 ## Journals
 * <span class="publication-venue" markdown="span">[IJGI 2025](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
-  <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] [[Open Access](https://discovery.ucl.ac.uk/id/eprint/10215393/)] [[bibTeX](/files/MCST-DF.bib)]</span>
+  <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · **Co-first Author** · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[**Cover Paper**](https://www.mdpi.com/2220-9964/14/8)] [[Open Access](https://discovery.ucl.ac.uk/id/eprint/10215393/)] [[bibTeX](/files/MCST-DF.bib)]</span>
 * <span id="paper-eed"></span><span class="publication-venue" markdown="span">[T-SMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   <span class="publication-meta" markdown="span">Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang · [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)] [[bibTeX](/files/EED.bib)]</span>
 
@@ -111,8 +111,8 @@ Experience
 Awards & Honors
 ======
 * 2026 [Gold Tier Reviewer](https://2026.ijcai.org/ppi-reviewer-benefits-tier-definitions/), IJCAI-ECAI 2026 Primary Paper Initiative (PPI)
-* 2024 Outstanding Merit Student of University of Chinese Academy of Sciences (中国科学院大学三好学生标兵)
-* 2023 Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences <span class="award-name">(中国科学院朱李月华优秀博士生奖学金)</span>
+* 2024 [Outstanding Merit Student of University of Chinese Academy of Sciences](https://emse.ucas.ac.cn/index.php/zh/tzgge/399-2023-2025) (中国科学院大学三好学生标兵)
+* 2023 [Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences](https://yjsgl.ucas.ac.cn/index.php/zh-cn/tzgg/332-2023) <span class="award-name">(中国科学院朱李月华优秀博士生奖学金)</span>
 * 2023 CSC Scholarship (国家留学基金委奖学金)
 * 2022, 2023, 2024 Merit Student of University of Chinese Academy of Sciences (中国科学院大学三好学生）
 * 2019 - 2025 Academic Scholarship of University of Chinese Academy of Sciences (中国科学院大学学业奖学金）
