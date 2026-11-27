@@ -12,7 +12,13 @@ I’m currently a Ph.D. student at the [University of Chinese Academy of Science
 Research
 ======
 
-![Research overview showing multi-agent cooperation, LLM reasoning, and financial decision-making, with representative papers and publication venues.](/images/research-overview.png)
+<a class="research-figure" href="/images/research-overview.png" aria-label="Enlarge research overview"><img src="/images/research-overview.png" alt="Research overview: multi-agent cooperation, LLM reasoning, and financial decision-making, with representative papers and venues." /></a>
+
+<div class="research-paper-index" markdown="1">
+**Multi-agent cooperation:** [RACA](#paper-raca) · [HCL](#paper-hcl) · [DLCA](#paper-dlca) · [PD-MARL](#paper-pd-marl) · [COLA](#paper-cola) · [PDiT](#paper-pdit) · [EED](#paper-eed)<br>
+**LLM reasoning:** [RAC](#paper-rac) · [AdaCon](#paper-adacon) · [TC-RAG](#paper-tc-rag)<br>
+**Financial decision-making:** [DRPO](#paper-drpo) · [DBLM](#paper-dblm)
+</div>
 
 Education
 ======
@@ -64,9 +70,9 @@ Publications
   <span class="publication-meta" markdown="span">Tianchang Zhao, Yabin Wang, Jianbin Jiao, **Hao Chen** · [[bibTeX](/files/GuanDan.bib)]</span>
 
 ## Journals
-* <span class="publication-venue" markdown="span">[IJGI](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
+* <span class="publication-venue" markdown="span">[IJGI 2025](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
   <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] [[bibTeX](/files/MCST-DF.bib)]</span>
-* <span class="publication-venue" markdown="span">[T-SMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
+* <span id="paper-eed"></span><span class="publication-venue" markdown="span">[T-SMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   <span class="publication-meta" markdown="span">Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang · [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)] [[bibTeX](/files/EED.bib)]</span>
 
 ## Workshop Papers
@@ -128,7 +134,7 @@ Professional Services
 
 Maintained Projects
 ======
-* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)
-* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code)
-* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection)
-* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)
+* [Multi-Agent Reinforcement Learning Papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)  [![GitHub forks](https://img.shields.io/github/forks/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers)](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers/forks)
+* [Multi-Agent Reinforcement Learning Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code)  [![GitHub forks](https://img.shields.io/github/forks/TimeBreaker/MARL-papers-with-code)](https://github.com/TimeBreaker/MARL-papers-with-code/forks)
+* [Multi-Agent Reinforcement Learning Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection)  [![GitHub forks](https://img.shields.io/github/forks/TimeBreaker/MARL-resources-collection)](https://github.com/TimeBreaker/MARL-resources-collection/forks)
+* [Adversarial Reinforcement Learning Papers](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub stars](https://img.shields.io/github/stars/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)  [![GitHub forks](https://img.shields.io/github/forks/TimeBreaker/Adversarial-Reinforcement-Learning-Papers)](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers/forks)
