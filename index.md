@@ -112,21 +112,21 @@ Experience
 Awards & Honors
 ======
 <ul class="awards-list">
-<li><span class="award-years">2026</span><span class="award-description" markdown="span">[Gold Tier Reviewer](https://2026.ijcai.org/ppi-reviewer-benefits-tier-definitions/), IJCAI-ECAI 2026 Primary Paper Initiative (PPI)</span></li>
-<li><span class="award-years">2024</span><span class="award-description" markdown="span"><strong>[Outstanding Merit Student of University of Chinese Academy of Sciences](https://emse.ucas.ac.cn/index.php/zh/tzgge/399-2023-2025)<span class="award-translation">中国科学院大学三好学生标兵</span></strong></span></li>
-<li><span class="award-years">2023</span><span class="award-description" markdown="span"><strong>[Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences](https://yjsgl.ucas.ac.cn/index.php/zh-cn/tzgg/332-2023)<span class="award-translation">中国科学院朱李月华优秀博士生奖学金</span></strong></span></li>
-<li><span class="award-years">2023</span><span class="award-description" markdown="span">CSC Scholarship<span class="award-translation">国家留学基金委奖学金</span></span></li>
-<li><span class="award-years">2022, 2023, 2024</span><span class="award-description" markdown="span">Merit Student of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学三好学生</span></span></li>
-<li><span class="award-years">2019–2025</span><span class="award-description" markdown="span">Academic Scholarship of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学学业奖学金</span></span></li>
-<li><span class="award-years">2017</span><span class="award-description" markdown="span">Merit Student of Chinese Academy of Sciences<span class="award-translation">中国科学院优秀共青团员</span></span></li>
-<li><span class="award-years">2017, 2018</span><span class="award-description" markdown="span">Merit Student of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学优秀共青团员</span></span></li>
-<li><span class="award-years">2017</span><span class="award-description" markdown="span">Third Prize of the National Scholarship</span></li>
-<li><span class="award-years">2018</span><span class="award-description" markdown="span">Second Prize in China Undergraduate Mathematical Contest in Modeling</span></li>
-<li><span class="award-years">2017, 2018</span><span class="award-description" markdown="span">Outstanding Individual of Students' Association Union</span></li>
-<li><span class="award-years">2018</span><span class="award-description" markdown="span">Third Prize of the "UCAS Cup" Innovation and Entrepreneurship Competition</span></li>
-<li><span class="award-years">2018</span><span class="award-description" markdown="span">Outstanding Volunteer of IEEE UCAS Branch</span></li>
-<li><span class="award-years">2017</span><span class="award-description" markdown="span">Outstanding Member of UCAS National Flag Guard</span></li>
-<li><span class="award-years">2017</span><span class="award-description" markdown="span">Third Prize in the 4th Undergraduate National Flag Raiser Competition</span></li>
+<li><span class="award-years">2026</span><span class="award-description"><a href="https://2026.ijcai.org/ppi-reviewer-benefits-tier-definitions/">Gold Tier Reviewer</a>, IJCAI-ECAI 2026 Primary Paper Initiative (PPI)</span></li>
+<li><span class="award-years">2024</span><span class="award-description"><strong><a href="https://emse.ucas.ac.cn/index.php/zh/tzgge/399-2023-2025">Outstanding Merit Student of University of Chinese Academy of Sciences</a><span class="award-translation">中国科学院大学三好学生标兵</span></strong></span></li>
+<li><span class="award-years">2023</span><span class="award-description"><strong><a href="https://yjsgl.ucas.ac.cn/index.php/zh-cn/tzgg/332-2023">Zhu Li Yuehua Excellent Doctoral Student Award of Chinese Academy of Sciences</a><span class="award-translation">中国科学院朱李月华优秀博士生奖学金</span></strong></span></li>
+<li><span class="award-years">2023</span><span class="award-description">CSC Scholarship<span class="award-translation">国家留学基金委奖学金</span></span></li>
+<li><span class="award-years">2022, 2023, 2024</span><span class="award-description">Merit Student of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学三好学生</span></span></li>
+<li><span class="award-years">2019–2025</span><span class="award-description">Academic Scholarship of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学学业奖学金</span></span></li>
+<li><span class="award-years">2017</span><span class="award-description">Merit Student of Chinese Academy of Sciences<span class="award-translation">中国科学院优秀共青团员</span></span></li>
+<li><span class="award-years">2017, 2018</span><span class="award-description">Merit Student of University of Chinese Academy of Sciences<span class="award-translation">中国科学院大学优秀共青团员</span></span></li>
+<li><span class="award-years">2017</span><span class="award-description">Third Prize of the National Scholarship</span></li>
+<li><span class="award-years">2018</span><span class="award-description">Second Prize in China Undergraduate Mathematical Contest in Modeling</span></li>
+<li><span class="award-years">2017, 2018</span><span class="award-description">Outstanding Individual of Students' Association Union</span></li>
+<li><span class="award-years">2018</span><span class="award-description">Third Prize of the "UCAS Cup" Innovation and Entrepreneurship Competition</span></li>
+<li><span class="award-years">2018</span><span class="award-description">Outstanding Volunteer of IEEE UCAS Branch</span></li>
+<li><span class="award-years">2017</span><span class="award-description">Outstanding Member of UCAS National Flag Guard</span></li>
+<li><span class="award-years">2017</span><span class="award-description">Third Prize in the 4th Undergraduate National Flag Raiser Competition</span></li>
 </ul>
 
 
