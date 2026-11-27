@@ -15,10 +15,10 @@ I’m currently a Ph.D. student at the [University of Chinese Academy of Science
 
 <a class="research-figure" href="/images/research-overview.png" aria-label="Enlarge research overview"><img src="/images/research-overview.png" alt="Research overview: multi-agent cooperation, LLM reasoning, and financial decision-making, with representative papers and venues." /></a>
 
-<div class="research-paper-index" markdown="1">
-**Multi-agent cooperation:** [RACA](#paper-raca) · [HCL](#paper-hcl) · [DLCA](#paper-dlca) · [PD-MARL](#paper-pd-marl) · [COLA](#paper-cola) · [PDiT](#paper-pdit) · [EED](#paper-eed)<br>
-**LLM reasoning:** [RAC](#paper-rac) · [AdaCon](#paper-adacon) · [TC-RAG](#paper-tc-rag)<br>
-**Financial decision-making:** [DRPO](#paper-drpo) · [DBLM](#paper-dblm)
+<div class="research-paper-index">
+<div class="research-link-group"><strong>Multi-agent cooperation</strong><div class="research-links"><a href="#paper-raca">RACA</a><a href="#paper-hcl">HCL</a><a href="#paper-dlca">DLCA</a><a href="#paper-pd-marl">PD-MARL</a><a href="#paper-cola">COLA</a><a href="#paper-pdit">PDiT</a><a href="#paper-eed">EED</a></div></div>
+<div class="research-link-group"><strong>LLM reasoning</strong><div class="research-links"><a href="#paper-rac">RAC</a><a href="#paper-adacon">AdaCon</a><a href="#paper-tc-rag">TC-RAG</a></div></div>
+<div class="research-link-group"><strong>Financial decision-making</strong><div class="research-links"><a href="#paper-drpo">DRPO</a><a href="#paper-dblm">DBLM</a></div></div>
 </div>
 
 Education
@@ -132,9 +132,13 @@ Professional Services
 ======
 
 
-**Conference reviewing:** [ICLR](https://iclr.cc/) 2026 · [NeurIPS](https://neurips.cc/) 2026 · [AAAI](https://aaai.org/conference/aaai/) 2025, 2026, 2027 · [AAMAS](https://www.ifaamas.org/previousaamas.html) 2025, 2026 · [IJCAI](https://www.ijcai.org/) 2023, 2024, 2025 · [IJCAI-ECAI](https://2026.ijcai.org/) 2026 · [ECML-PKDD](https://ecmlpkdd.org/2026/) 2026 · [ICASSP](https://2026.ieeeicassp.org/) 2026 · [ICME](https://signalprocessingsociety.org/event-names/icme) 2025, 2026 · [IJCNN](https://ijcnn.org/2027) 2027 · [ECAI](https://ecai2023.eu/) 2023 · [MRS](https://sites.bu.edu/mrs2023/) 2023 · [ICML](https://icml.cc/Conferences/2022) 2022 · [CAC](https://www.caa.org.cn/Uploads/image/file/20230310/20230310144525_12820.pdf) 2022, 2023 · [DAI](https://www.adai.ai/) 2025, 2026
+<div class="service-row" markdown="1">
+<span class="service-label">Conference reviewing:</span><span class="service-content" markdown="span">[ICLR](https://iclr.cc/) 2026 · [NeurIPS](https://neurips.cc/) 2026 · [AAAI](https://aaai.org/conference/aaai/) 2025, 2026, 2027 · [AAMAS](https://www.ifaamas.org/previousaamas.html) 2025, 2026 · [IJCAI](https://www.ijcai.org/) 2023, 2024, 2025 · [IJCAI-ECAI](https://2026.ijcai.org/) 2026 · [ECML-PKDD](https://ecmlpkdd.org/2026/) 2026 · [ICASSP](https://2026.ieeeicassp.org/) 2026 · [ICME](https://signalprocessingsociety.org/event-names/icme) 2025, 2026 · [IJCNN](https://ijcnn.org/2027) 2027 · [ECAI](https://ecai2023.eu/) 2023 · [MRS](https://sites.bu.edu/mrs2023/) 2023 · [ICML](https://icml.cc/Conferences/2022) 2022 · [CAC](https://www.caa.org.cn/Uploads/image/file/20230310/20230310144525_12820.pdf) 2022, 2023 · [DAI](https://www.adai.ai/) 2025, 2026</span>
+</div>
 
-**Journal reviewing:** [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 "IEEE Transactions on Neural Networks and Learning Systems") · [ToG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673 "IEEE Transactions on Games") · [IoT](https://ieee-iotj.org/ "IEEE Internet of Things Journal") · [TAGI](https://www.tandfonline.com/journals/tagi20/about-this-journal#aims-and-scope "Annals of GIS") · [IS](https://www.sciencedirect.com/journal/information-sciences "Information Sciences") · [CAAI TIT](https://ietresearch.onlinelibrary.wiley.com/journal/24682322 "CAAI Transactions on Intelligence Technology") · [TSMC: Systems](https://www.ieeesmc.org/publications/transactions-on-systems-man-and-cybernetics-systems/ "IEEE Transactions on Systems, Man, and Cybernetics: Systems")
+<div class="service-row" markdown="1">
+<span class="service-label">Journal reviewing:</span><span class="service-content" markdown="span">[TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 "IEEE Transactions on Neural Networks and Learning Systems") · [ToG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673 "IEEE Transactions on Games") · [IoT](https://ieee-iotj.org/ "IEEE Internet of Things Journal") · [TAGI](https://www.tandfonline.com/journals/tagi20/about-this-journal#aims-and-scope "Annals of GIS") · [IS](https://www.sciencedirect.com/journal/information-sciences "Information Sciences") · [CAAI TIT](https://ietresearch.onlinelibrary.wiley.com/journal/24682322 "CAAI Transactions on Intelligence Technology") · [TSMC: Systems](https://www.ieeesmc.org/publications/transactions-on-systems-man-and-cybernetics-systems/ "IEEE Transactions on Systems, Man, and Cybernetics: Systems")</span>
+</div>
 
 Maintained Projects
 ======
