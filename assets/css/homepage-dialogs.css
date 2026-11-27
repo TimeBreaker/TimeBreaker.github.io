@@ -132,3 +132,19 @@ body { padding-bottom:0; }
   .page__content .service-row,
   html[lang="zh"] .service-row { grid-template-columns:1fr; row-gap:2px; }
 }
+
+/* Compact honors with a consistent year column and secondary translations. */
+.page__content .awards-list { list-style:none; padding-left:0; margin:.25em 0 .6em; }
+.page__content .awards-list > li { display:grid; grid-template-columns:9.7em minmax(0,1fr); gap:10px; align-items:baseline; margin:0; padding:4px 0; font-size:.84rem; line-height:1.4; }
+.award-years { color:#78838c; font-size:.76rem; font-variant-numeric:tabular-nums; }
+.award-description { min-width:0; }
+.award-description strong { font-weight:600; }
+.award-translation { display:block; color:#78838c; font-size:.73rem; font-weight:400; line-height:1.35; margin-top:1px; }
+@media(max-width:600px) {
+ .page__content .awards-list > li { grid-template-columns:7em minmax(0,1fr); gap:8px; }
+}
+
+/* Match project links to the compact services and honors lists. */
+.page__content #maintained-projects + ul { margin-top:.25em; margin-bottom:.6em; }
+.page__content #maintained-projects + ul > li { font-size:.84rem; line-height:1.45; margin-bottom:.22em; }
+.page__content #maintained-projects + ul img { height:17px; width:auto; vertical-align:middle; margin:0 0 0 3px; }

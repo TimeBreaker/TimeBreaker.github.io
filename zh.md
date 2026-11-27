@@ -111,21 +111,23 @@ author_profile: true
 
 奖项与荣誉 {#awards--honors}
 ======
-* 2026 [IJCAI-ECAI 2026 PPI 金级审稿人](https://2026.ijcai.org/ppi-reviewer-benefits-tier-definitions/)
-* 2024 [中国科学院大学三好学生标兵](https://emse.ucas.ac.cn/index.php/zh/tzgge/399-2023-2025)
-* 2023 [中国科学院朱李月华优秀博士生奖学金](https://yjsgl.ucas.ac.cn/index.php/zh-cn/tzgg/332-2023)
-* 2023 国家留学基金委奖学金（CSC）
-* 2022、2023、2024 中国科学院大学三好学生
-* 2019—2025 中国科学院大学学业奖学金
-* 2017 中国科学院优秀共青团员
-* 2017、2018 中国科学院大学优秀共青团员
-* 2017 国家奖学金三等奖
-* 2018 全国大学生数学建模竞赛二等奖
-* 2017、2018 学生社团联合会优秀个人
-* 2018 “国科大杯”创新创业大赛三等奖
-* 2018 IEEE 国科大学生分会优秀志愿者
-* 2017 国科大国旗护卫队优秀队员
-* 2017 第四届大学生升旗手大赛三等奖
+<ul class="awards-list">
+<li><span class="award-years">2026</span><span class="award-description" markdown="span">[IJCAI-ECAI 2026 PPI 金级审稿人](https://2026.ijcai.org/ppi-reviewer-benefits-tier-definitions/)</span></li>
+<li><span class="award-years">2024</span><span class="award-description" markdown="span"><strong>[中国科学院大学三好学生标兵](https://emse.ucas.ac.cn/index.php/zh/tzgge/399-2023-2025)</strong></span></li>
+<li><span class="award-years">2023</span><span class="award-description" markdown="span"><strong>[中国科学院朱李月华优秀博士生奖学金](https://yjsgl.ucas.ac.cn/index.php/zh-cn/tzgg/332-2023)</strong></span></li>
+<li><span class="award-years">2023</span><span class="award-description" markdown="span">国家留学基金委奖学金（CSC）</span></li>
+<li><span class="award-years">2022、2023、2024</span><span class="award-description" markdown="span">中国科学院大学三好学生</span></li>
+<li><span class="award-years">2019–2025</span><span class="award-description" markdown="span">中国科学院大学学业奖学金</span></li>
+<li><span class="award-years">2017</span><span class="award-description" markdown="span">中国科学院优秀共青团员</span></li>
+<li><span class="award-years">2017、2018</span><span class="award-description" markdown="span">中国科学院大学优秀共青团员</span></li>
+<li><span class="award-years">2017</span><span class="award-description" markdown="span">国家奖学金三等奖</span></li>
+<li><span class="award-years">2018</span><span class="award-description" markdown="span">全国大学生数学建模竞赛二等奖</span></li>
+<li><span class="award-years">2017、2018</span><span class="award-description" markdown="span">学生社团联合会优秀个人</span></li>
+<li><span class="award-years">2018</span><span class="award-description" markdown="span">“国科大杯”创新创业大赛三等奖</span></li>
+<li><span class="award-years">2018</span><span class="award-description" markdown="span">IEEE 国科大学生分会优秀志愿者</span></li>
+<li><span class="award-years">2017</span><span class="award-description" markdown="span">国科大国旗护卫队优秀队员</span></li>
+<li><span class="award-years">2017</span><span class="award-description" markdown="span">第四届大学生升旗手大赛三等奖</span></li>
+</ul>
 
 
 学术服务 {#professional-services}
