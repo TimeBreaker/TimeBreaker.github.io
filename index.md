@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+hide_title: true
 excerpt: "About me"
 author_profile: true
 ---
@@ -9,8 +10,7 @@ author_profile: true
 
 I’m currently a Ph.D. student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include multi-agent reinforcement learning and large language models. If you are interested in my experience or research, please feel free to contact me via [Email](mailto:chenhao915@mails.ucas.ac.cn).
 
-Research
-======
+<span id="research"></span>
 
 <a class="research-figure" href="/images/research-overview.png" aria-label="Enlarge research overview"><img src="/images/research-overview.png" alt="Research overview: multi-agent cooperation, LLM reasoning, and financial decision-making, with representative papers and venues." /></a>
 
@@ -45,15 +45,15 @@ Publications
 * <span id="paper-hcl"></span><span class="publication-venue" markdown="span">[ECML PKDD2026](https://ecmlpkdd.org/2026/) (Oral)</span> **Hierarchical Cognitive Learning for Cooperative Multi-agent Reinforcement Learning**<br>
   <span class="publication-meta" markdown="span">**Hao Chen**, Meiqi Wu, Yang Yu, Kaiqi Huang, Jianbin Jiao · [[Paper](https://doi.org/10.1007/978-3-032-37670-1_19)] [[bibTeX](/files/HCL.bib)]</span>
 * <span id="paper-tc-rag"></span><span class="publication-venue" markdown="span">[ACL2025](https://2025.aclweb.org/) (Oral)</span> **TC-RAG: Turing-Complete RAG's Case study on Medical LLM Systems**<br>
-  <span class="publication-meta" markdown="span">Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma, Xu Chu, Junfeng Zhao, Yasha Wang · [[Paper](https://aclanthology.org/2025.acl-long.558/)] [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[bibTeX](/files/RAG.bib)]</span>
+  <span class="publication-meta" markdown="span">Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, **Hao Chen**, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma, Xu Chu, Junfeng Zhao, Yasha Wang · [[Paper](https://aclanthology.org/2025.acl-long.558/)] [[arXiv](https://arxiv.org/abs/2408.09199)] [[Code](https://github.com/Artessay/TC-RAG)] [[Video](https://aclanthology.org/2025.acl-long.558.mp4)] [[bibTeX](/files/RAG.bib)]</span>
 * <span id="paper-dblm"></span><span class="publication-venue" markdown="span">[AAAI2025](https://aaai.org/Conferences/AAAI-25/) (Oral)</span> **Time Series Supplier Allocation via Deep Black-Litterman Model**<br>
-  <span class="publication-meta" markdown="span">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo · [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33292)] [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[Slides](/files/DBLM_PPT.pdf)] [[Poster](/files/DBLM_poster.pdf)] [[bibTeX](/files/DBLM.bib)]</span>
+  <span class="publication-meta" markdown="span">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, **Hao Chen**, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo · [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33292)] [[arXiv](https://arxiv.org/abs/2401.17350)] [[Code](https://github.com/QiuFengqing/DBLM)] [[Slides](/files/DBLM_PPT.pdf)] [[Poster](/files/DBLM_poster.pdf)] [[Presentation](https://underline.io/lecture/113931-time-series-supplier-allocation-via-deep-black-litterman-model)] [[bibTeX](/files/DBLM.bib)]</span>
 * <span id="paper-pdit"></span><span class="publication-venue" markdown="span">[AAMAS2024](https://www.aamas2024-conference.auckland.ac.nz/) (Oral)</span> **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**<br>
-  <span class="publication-meta" markdown="span">Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin · [[Paper](https://dl.acm.org/doi/abs/10.5555/3635637.3662995)] [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[bibTeX](/files/PDiT.bib)]</span>
+  <span class="publication-meta" markdown="span">Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, **Hao Chen**, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang and Jiangjin Yin · [[Paper](https://dl.acm.org/doi/abs/10.5555/3635637.3662995)] [[arXiv](https://arxiv.org/abs/2312.15863)] [[Code](https://github.com/maohangyu/PDiT)] [[中文介绍](https://www.ia.cas.cn/kxyj/kydt_1/202406/t20240612_7187500.html)] [[bibTeX](/files/PDiT.bib)]</span>
 * <span id="paper-sttd"></span><span class="publication-venue" markdown="span">[CIKM2023](https://uobevents.eventsair.com/cikm2023/) (Poster)</span> **Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**<br>
-  <span class="publication-meta" markdown="span">Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao · [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615215)] [[arXiv](https://arxiv.org/abs/2306.09882)] [[Code](https://github.com/STTDAnonymous/STTD)] [[Poster](/files/CIKM2023.pdf)] [[bibTeX](/files/STTD.bib)]</span>
+  <span class="publication-meta" markdown="span">Xinke Jiang, Dingyi Zhuang, Xianghui Zhang, **Hao Chen**, Jiayuan Luo, Xiaowei Gao · [[Paper](https://dl.acm.org/doi/10.1145/3583780.3615215)] [[arXiv](https://arxiv.org/abs/2306.09882)] [[Code](https://github.com/STTDAnonymous/STTD)] [[Poster](/files/CIKM2023.pdf)] [[Open Access](https://discovery.ucl.ac.uk/id/eprint/10179706/)] [[bibTeX](/files/STTD.bib)]</span>
 * <span id="paper-cola"></span><span class="publication-venue" markdown="span">[AAAI2023](https://aaai.org/Conferences/AAAI-23/) (Oral)</span> **Consensus Learning for Cooperative Multi-Agent Reinforcement Learning**<br>
-  <span class="publication-meta" markdown="span">Zhiwei Xu, Bin Zhang, Dapeng Li, Zeren Zhang, Guangchong Zhou, **Hao Chen**, Guoliang Fan · [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[bibTeX](/files/AAAI2023-1.bib)]</span>
+  <span class="publication-meta" markdown="span">Zhiwei Xu, Bin Zhang, Dapeng Li, Zeren Zhang, Guangchong Zhou, **Hao Chen**, Guoliang Fan · [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26385)] [[arXiv](https://arxiv.org/abs/2206.02583)] [[Code](https://github.com/deligentfool/COLA)] [[Presentation](https://underline.io/lecture/68126-consensus-learning-for-cooperative-multi-agent-reinforcement-learning)] [[bibTeX](/files/AAAI2023-1.bib)]</span>
 * <span class="publication-venue" markdown="span">[IJCNN2023](https://2023.ijcnn.org/) (Oral)</span> **Explicitly Learning Policy Under Partial Observability in Multiagent Reinforcement Learning**<br>
   <span class="publication-meta" markdown="span">Chen Yang, Guangkai Yang, **Hao Chen**, Junge Zhang · [[Paper](https://ieeexplore.ieee.org/abstract/document/10191476)] [[Slides](/files/ELP.pdf)] [[bibTeX](/files/IJCNN2023-1.bib)]</span>
 * <span class="publication-venue" markdown="span">[IJCNN2023](https://2023.ijcnn.org/) (Oral)</span> **Underexplored Subspace Mining for Sparse-Reward Cooperative Multi-Agent Reinforcement Learning**<br>
@@ -71,7 +71,7 @@ Publications
 
 ## Journals
 * <span class="publication-venue" markdown="span">[IJGI 2025](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
-  <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] [[bibTeX](/files/MCST-DF.bib)]</span>
+  <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · [[Paper](https://www.mdpi.com/2220-9964/14/8/286)] [[Issue Cover](https://www.mdpi.com/2220-9964/14/8)] [[Open Access](https://discovery.ucl.ac.uk/id/eprint/10215393/)] [[bibTeX](/files/MCST-DF.bib)]</span>
 * <span id="paper-eed"></span><span class="publication-venue" markdown="span">[T-SMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   <span class="publication-meta" markdown="span">Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang · [[Paper](https://ieeexplore.ieee.org/abstract/document/11033165)] [[bibTeX](/files/EED.bib)]</span>
 

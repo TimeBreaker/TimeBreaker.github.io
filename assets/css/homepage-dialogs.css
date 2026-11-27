@@ -15,3 +15,9 @@
 .research-image-dialog { width:min(1500px,96vw); }
 .research-image-dialog img { display:block; width:100%; height:auto; }
 @media(max-width:600px) { .homepage-dialog-header { padding:12px; gap:8px; } .homepage-dialog pre { padding:14px; } }
+
+/* Give the main column more room beside the desktop author profile. */
+@media (min-width:1200px) {
+  #main > .sidebar { width:145px; margin-right:0; }
+  #main > .page { width:calc(100% - 155px); padding-left:0; }
+}

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hao Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. student of University of Chinese Academy of Sciences, interested in multi-agent reinforcement learning"
+  bio              :
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/myncbi/hao.chen.18/bibliography/public/"
