@@ -148,3 +148,29 @@ body { padding-bottom:0; }
 .page__content #maintained-projects + ul { margin-top:.25em; margin-bottom:.6em; }
 .page__content #maintained-projects + ul > li { font-size:.84rem; line-height:1.45; margin-bottom:.22em; }
 .page__content #maintained-projects + ul img { height:17px; width:auto; vertical-align:middle; margin:0 0 0 3px; }
+
+/* Keep experience typography consistent with honors and project lists. */
+.page__content #experience + ul { margin-top:.25em; margin-bottom:.6em; }
+.page__content #experience + ul > li { font-size:.84rem; line-height:1.45; margin-bottom:.22em; }
+.page__content #experience + ul .timeline-date { font-size:.76rem; }
+
+/* Align equivalent list text while retaining publication hierarchy. */
+.page__content #education + ul > li { font-size:.84rem; line-height:1.45; margin-bottom:.22em; }
+.page__content #education + ul .timeline-date { font-size:.76rem; }
+.page__content .service-row { font-size:.84rem; line-height:1.45; }
+
+/* Publication titles remain distinct from authors and compact resource links. */
+.page__content .publication-list li { font-size:.88rem; line-height:1.4; }
+.page__content .publication-list li > strong { font-weight:600; }
+.page__content .publication-list .publication-meta { font-size:.84rem; line-height:1.4; }
+.page__content .publication-list #patents + ul > li { font-size:.84rem; }
+.page__content .publication-list .patent-translation { font-size:.76rem; color:#78838c; line-height:1.35; }
+
+/* Explicitly align service text and links, including Markdown wrappers. */
+.page__content .service-row,
+.page__content .service-row > p,
+.page__content .service-row .service-content,
+.page__content .service-row .service-content a,
+.page__content .service-row .service-label {
+  font-size:.84rem; line-height:1.45;
+}

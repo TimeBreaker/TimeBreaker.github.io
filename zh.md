@@ -72,7 +72,7 @@ author_profile: true
 
 ## 期刊论文 {#journals}
 * <span class="publication-venue" markdown="span">[IJGI 2025](https://www.mdpi.com/journal/ijgi "ISPRS International Journal of Geo-Information")</span> **Multi-Channel Spatio-Temporal Data Fusion of ‘Big’ and ‘Small’ Network Data Using Transformer Networks**<br>
-  <span class="publication-meta" markdown="span">Tao Cheng\*, **Hao Chen\***, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · <span class="publication-highlight">共同第一作者</span> · <span class="publication-resources"><a class="publication-resource" href="https://www.mdpi.com/2220-9964/14/8/286">论文</a> <a class="publication-resource publication-highlight" href="https://www.mdpi.com/2220-9964/14/8">封面论文</a> <a class="publication-resource" href="https://discovery.ucl.ac.uk/id/eprint/10215393/">开放访问</a> <a class="publication-resource" href="/files/MCST-DF.bib">bibTeX</a></span></span>
+  <span class="publication-meta" markdown="span">Tao Cheng&#42;, <strong>Hao Chen&#42;</strong>, Xianghui Zhang, Xiaowei Gao, Lu Yin, Jianbin Jiao · <span class="publication-highlight">共同第一作者</span> · <span class="publication-resources"><a class="publication-resource" href="https://www.mdpi.com/2220-9964/14/8/286">论文</a> <a class="publication-resource publication-highlight" href="https://www.mdpi.com/2220-9964/14/8">封面论文</a> <a class="publication-resource" href="https://discovery.ucl.ac.uk/id/eprint/10215393/">开放访问</a> <a class="publication-resource" href="/files/MCST-DF.bib">bibTeX</a></span></span>
 * <span id="paper-eed"></span><span class="publication-venue" markdown="span">[T-SMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021 "IEEE Transactions on Systems, Man and Cybernetics: Systems")</span> **Exploration via Embracing Diversity in Reinforcement Learning for Sparse-Reward Procedurally-Generated Tasks**<br>
   <span class="publication-meta" markdown="span">Pei Xu, **Hao Chen**, Wenjie Yang, Kaiqi Huang · <span class="publication-resources"><a class="publication-resource" href="https://ieeexplore.ieee.org/abstract/document/11033165">论文</a> <a class="publication-resource" href="/files/EED.bib">bibTeX</a></span></span>
 
@@ -88,13 +88,13 @@ author_profile: true
 
 ## 专利 {#patents}
 * <span class="patent-number">CN117579358A</span> **Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems**<br>
-  (多智能体通信方法、装置、存储介质和电子设备)<br>
+  <span class="patent-translation">(多智能体通信方法、装置、存储介质和电子设备)</span><br>
   <span class="publication-meta" markdown="span">Junge Zhang, Dan Qiao, **Hao Chen**</span>
 * <span class="patent-number">CN115660110B</span> **Learning Stochastic Credit Assignment for Cooperative Multi-Agent Reinforcement Learning**<br>
-  (多智能体信用分配方法、装置、可读存储介质和智能体)<br>
+  <span class="patent-translation">(多智能体信用分配方法、装置、可读存储介质和智能体)</span><br>
   <span class="publication-meta" markdown="span">Junge Zhang, Mingyi Zhang, Guangkai Yang, **Hao Chen**, Kaiqi Huang, Dandan Chen, Lu Wang</span>
 * <span class="patent-number">CN115018017A</span> **Learning Ensemble Credit Assignment for Multi-Agent Reinforcement Learning**<br>
-  (基于集成学习的多智能体信用分配方法、系统、设备)<br>
+  <span class="patent-translation">(基于集成学习的多智能体信用分配方法、系统、设备)</span><br>
   <span class="publication-meta" markdown="span">Junge Zhang, Kaiqi Huang, **Hao Chen**, Guangkai Yang</span>
 
 </div>
